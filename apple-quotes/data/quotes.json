@@ -1,0 +1,929 @@
+[
+  {
+    "id": "sj-001",
+    "text": "Stay hungry. Stay foolish.",
+    "author": "Steve Jobs",
+    "source": "Stanford Commencement Address",
+    "year": 2005,
+    "language": "en",
+    "tags": ["life", "philosophy", "famous", "graduation"]
+  },
+  {
+    "id": "sj-002",
+    "text": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma, which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice, heart and intuition.",
+    "author": "Steve Jobs",
+    "source": "Stanford Commencement Address",
+    "year": 2005,
+    "language": "en",
+    "tags": ["life", "philosophy", "individuality"]
+  },
+  {
+    "id": "sj-003",
+    "text": "You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something — your gut, destiny, life, karma, whatever.",
+    "author": "Steve Jobs",
+    "source": "Stanford Commencement Address",
+    "year": 2005,
+    "language": "en",
+    "tags": ["life", "philosophy", "faith"]
+  },
+  {
+    "id": "sj-004",
+    "text": "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.",
+    "author": "Steve Jobs",
+    "source": "Stanford Commencement Address",
+    "year": 2005,
+    "language": "en",
+    "tags": ["life", "death", "courage", "philosophy"]
+  },
+  {
+    "id": "sj-005",
+    "text": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking and don't settle.",
+    "author": "Steve Jobs",
+    "source": "Stanford Commencement Address",
+    "year": 2005,
+    "language": "en",
+    "tags": ["work", "career", "passion", "philosophy"]
+  },
+  {
+    "id": "sj-006",
+    "text": "I didn't see it then, but it turned out that getting fired from Apple was the best thing that could have ever happened to me. The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter one of the most creative periods of my life.",
+    "author": "Steve Jobs",
+    "source": "Stanford Commencement Address",
+    "year": 2005,
+    "language": "en",
+    "tags": ["career", "resilience", "creativity"]
+  },
+  {
+    "id": "sj-007",
+    "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "source": "Stanford Commencement Address",
+    "year": 2005,
+    "language": "en",
+    "tags": ["work", "career", "passion"]
+  },
+  {
+    "id": "sj-008",
+    "text": "Design is a funny word. Some people think design means how it looks. But of course, if you dig deeper, it's really how it works.",
+    "author": "Steve Jobs",
+    "source": "Wired Interview (The Guts of a New Machine)",
+    "year": 1996,
+    "language": "en",
+    "tags": ["design", "product philosophy"]
+  },
+  {
+    "id": "sj-009",
+    "text": "Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while.",
+    "author": "Steve Jobs",
+    "source": "Wired Interview (The Guts of a New Machine)",
+    "year": 1996,
+    "language": "en",
+    "tags": ["creativity", "innovation", "design"]
+  },
+  {
+    "id": "sj-010",
+    "text": "Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it's worth it in the end because once you get there, you can move mountains.",
+    "author": "Steve Jobs",
+    "source": "BusinessWeek interview",
+    "year": 1998,
+    "language": "en",
+    "tags": ["design", "simplicity", "product philosophy"]
+  },
+  {
+    "id": "sj-011",
+    "text": "For something this complicated, it's really hard to design products by focus groups. A lot of times, people don't know what they want until you show it to them.",
+    "author": "Steve Jobs",
+    "source": "BusinessWeek interview",
+    "year": 1998,
+    "language": "en",
+    "tags": ["product", "innovation", "design philosophy"]
+  },
+  {
+    "id": "sj-012",
+    "text": "It takes these very simple-minded instructions—'Go fetch a number, add it to this number, put the result there, perceive if it's greater than this other number'—but executes them at a rate of, let's say, 1,000,000 per second. At 1,000,000 per second, the results appear to be magic.",
+    "author": "Steve Jobs",
+    "source": "Playboy Interview",
+    "year": 1985,
+    "language": "en",
+    "tags": ["technology", "computers", "philosophy"]
+  },
+  {
+    "id": "sj-013",
+    "text": "When you're a carpenter making a beautiful chest of drawers, you're not going to use a piece of plywood on the back, even though it faces the wall and nobody will ever see it. You'll know it's there, so you're going to use a beautiful piece of wood on the back. For you to sleep well at night, the aesthetic, the quality, has to be carried all the way through.",
+    "author": "Steve Jobs",
+    "source": "Playboy Interview",
+    "year": 1985,
+    "language": "en",
+    "tags": ["design", "craftsmanship", "quality"]
+  },
+  {
+    "id": "sj-014",
+    "text": "The problem with Microsoft is they have no taste. They don't think of original ideas, and they don't bring much culture into their products.",
+    "author": "Steve Jobs",
+    "source": "Triumph of the Nerds / The Lost Interview",
+    "year": 1995,
+    "language": "en",
+    "tags": ["competition", "innovation", "product philosophy"]
+  },
+  {
+    "id": "sj-015",
+    "text": "I'm worth over a million dollars when I was 23, and over 10 million dollars when I was 24, and over a hundred million dollars when I was 25. And it wasn't that important, because I never did it for the money.",
+    "author": "Steve Jobs",
+    "source": "Triumph of the Nerds / The Lost Interview",
+    "year": 1995,
+    "language": "en",
+    "tags": ["money", "life", "philosophy"]
+  },
+  {
+    "id": "sj-016",
+    "text": "I think money is a wonderful thing because it enables you to do things, it enables you to invest in ideas that don't have a short-term payback, and things like that. But especially at that point in my life, it was not the most important thing. The most important thing was the company, the people, the products we were making, what we were going to enable people to do with these products.",
+    "author": "Steve Jobs",
+    "source": "Triumph of the Nerds / The Lost Interview",
+    "year": 1995,
+    "language": "en",
+    "tags": ["money", "leadership", "business"]
+  },
+  {
+    "id": "sj-017",
+    "text": "Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.",
+    "author": "Steve Jobs",
+    "source": "Apple 'Think Different' TV commercial (narrated by Jobs)",
+    "year": 1997,
+    "language": "en",
+    "tags": ["advertising", "philosophy", "innovation", "famous"]
+  },
+  {
+    "id": "sj-018",
+    "text": "Every once in a while, a revolutionary product comes along that changes everything.",
+    "author": "Steve Jobs",
+    "source": "Macworld 2007 Keynote (iPhone introduction)",
+    "year": 2007,
+    "language": "en",
+    "tags": ["product", "innovation", "iphone", "keynote"]
+  },
+  {
+    "id": "sj-019",
+    "text": "An iPod, a phone, an internet mobile communicator... these are not three separate devices, this is one device, and we are calling it iPhone. Today, Apple is going to reinvent the phone.",
+    "author": "Steve Jobs",
+    "source": "Macworld 2007 Keynote (iPhone introduction)",
+    "year": 2007,
+    "language": "en",
+    "tags": ["product", "iphone", "innovation", "keynote"]
+  },
+  {
+    "id": "sj-020",
+    "text": "If I were running Apple, I would milk the Macintosh for all it's worth — and get busy on the next great thing. The PC wars are over. Done. Microsoft won a long time ago.",
+    "author": "Steve Jobs",
+    "source": "Interview, on Microsoft/PC market",
+    "year": 1996,
+    "language": "en",
+    "tags": ["competition", "business", "strategy"]
+  },
+  {
+    "id": "sj-021",
+    "text": "I've always been fascinated by the intersection of technology and the liberal arts. Apple's core value is that technology alone is not the solution — technology married with liberal arts, married with humanities, yields the result that makes our hearts sing.",
+    "author": "Steve Jobs",
+    "source": "D5 Conference (Walt Mossberg / Kara Swisher interview)",
+    "year": 2007,
+    "language": "en",
+    "tags": ["philosophy", "product", "innovation", "humanities"]
+  },
+  {
+    "id": "sj-022",
+    "text": "I think most people don't even know what they want until you show it to them. People don't know what they want until you show it to them. That's why Henry Ford said, 'If I had asked people what they wanted, they would have said a faster horse.'",
+    "author": "Steve Jobs",
+    "source": "Walter Isaacson biography / BusinessWeek interview",
+    "year": 1998,
+    "language": "en",
+    "tags": ["innovation", "product philosophy", "customer"]
+  },
+  {
+    "id": "sj-023",
+    "text": "I want to put a ding in the universe.",
+    "author": "Steve Jobs",
+    "source": "Walter Isaacson biography (Steve Jobs)",
+    "year": 2011,
+    "language": "en",
+    "tags": ["ambition", "philosophy", "innovation", "famous"]
+  },
+  {
+    "id": "sj-024",
+    "text": "The people who are crazy enough to think they can change the world are the ones who do.",
+    "author": "Steve Jobs",
+    "source": "Apple 'Think Different' campaign",
+    "year": 1997,
+    "language": "en",
+    "tags": ["advertising", "philosophy", "famous", "change"]
+  },
+  {
+    "id": "sj-025",
+    "text": "If you want to live your life in a creative way, as an artist, you have to not look back too much. You have to be willing to take whatever you've done and whoever you were and throw them away.",
+    "author": "Steve Jobs",
+    "source": "Walter Isaacson biography (Steve Jobs)",
+    "year": 2011,
+    "language": "en",
+    "tags": ["creativity", "art", "life", "philosophy"]
+  },
+  {
+    "id": "sj-026",
+    "text": "Being the richest man in the cemetery doesn't matter to me. Going to bed at night saying we've done something wonderful — that's what matters to me.",
+    "author": "Steve Jobs",
+    "source": "Wall Street Journal / All Things Digital interview",
+    "year": 1993,
+    "language": "en",
+    "tags": ["money", "life", "philosophy", "legacy"]
+  },
+  {
+    "id": "sj-027",
+    "text": "My job is not to be easy on people. My job is to take these great people we have and to push them and make them even better.",
+    "author": "Steve Jobs",
+    "source": "Walter Isaacson biography (Steve Jobs)",
+    "year": 2011,
+    "language": "en",
+    "tags": ["leadership", "management", "team"]
+  },
+  {
+    "id": "sj-028",
+    "text": "Sometimes life hits you in the head with a brick. Don't lose faith. I'm convinced that the only thing that kept me going was that I loved what I did.",
+    "author": "Steve Jobs",
+    "source": "Stanford Commencement Address",
+    "year": 2005,
+    "language": "en",
+    "tags": ["life", "resilience", "passion", "career"]
+  },
+  {
+    "id": "sj-029",
+    "text": "The people who built Silicon Valley were engineers, they read science fiction, they listened to music, they were artists too. I think the best creativity comes from that intersection — technology and the arts.",
+    "author": "Steve Jobs",
+    "source": "D5 Conference (Walt Mossberg / Kara Swisher interview)",
+    "year": 2007,
+    "language": "en",
+    "tags": ["innovation", "creativity", "humanities", "philosophy"]
+  },
+  {
+    "id": "sj-030",
+    "text": "We don't get a chance to do that many things, and every one should be really excellent. Because this is our life. Life is brief, and then you're dead.",
+    "author": "Steve Jobs",
+    "source": "Walter Isaacson biography (Steve Jobs)",
+    "year": 2011,
+    "language": "en",
+    "tags": ["life", "excellence", "philosophy"]
+  },
+  {
+    "id": "tc-001",
+    "text": "Privacy is a fundamental human right.",
+    "author": "Tim Cook",
+    "source": "Apple Privacy statement / multiple keynote addresses",
+    "year": 2015,
+    "language": "en",
+    "tags": ["privacy", "values", "human rights"]
+  },
+  {
+    "id": "tc-002",
+    "text": "For the most important decisions in your life, trust your intuition, and then work with everything you have, to prove it right.",
+    "author": "Tim Cook",
+    "source": "Auburn University Commencement Address",
+    "year": 2010,
+    "language": "en",
+    "tags": ["leadership", "intuition", "decisions"]
+  },
+  {
+    "id": "tc-003",
+    "text": "Let your joy be in your journey, not in some distant goal.",
+    "author": "Tim Cook",
+    "source": "Auburn University Commencement Address",
+    "year": 2010,
+    "language": "en",
+    "tags": ["life", "journey", "wisdom"]
+  },
+  {
+    "id": "tc-004",
+    "text": "I learned that focus is key. Not just in your running a company, but in your personal life as well.",
+    "author": "Tim Cook",
+    "source": "Bloomberg Businessweek interview with Tim Cook on the iPhone 6 and Apple Watch",
+    "year": 2014,
+    "language": "en",
+    "tags": ["leadership", "focus"]
+  },
+  {
+    "id": "tc-005",
+    "text": "The longer the meeting, the less is accomplished.",
+    "author": "Tim Cook",
+    "source": "Bloomberg Businessweek interview",
+    "year": 2014,
+    "language": "en",
+    "tags": ["leadership", "productivity"]
+  },
+  {
+    "id": "tc-006",
+    "text": "I think the most diverse group will produce the best product; I firmly believe that.",
+    "author": "Tim Cook",
+    "source": "Interview with Mashable ahead of WWDC",
+    "year": 2015,
+    "language": "en",
+    "tags": ["diversity", "inclusion", "values"]
+  },
+  {
+    "id": "tc-007",
+    "text": "Apple has lost a visionary and creative genius, and the world has lost an amazing human being. Those of us who have been fortunate enough to know and work with Steve have lost a dear friend and an inspiring mentor. Steve leaves behind a company that only he could have built, and his spirit will forever be the foundation of Apple.",
+    "author": "Tim Cook",
+    "source": "Internal email memo to Apple employees on the death of Steve Jobs",
+    "year": 2011,
+    "language": "en",
+    "tags": ["steve jobs", "leadership", "tribute"]
+  },
+  {
+    "id": "tc-008",
+    "text": "If science is a search in the darkness, then the humanities are a candle that shows us where we have been and the danger that lies ahead. It is technology married with the liberal arts, married with the humanities, that makes our hearts sing.",
+    "author": "Tim Cook",
+    "source": "MIT Commencement Address",
+    "year": 2017,
+    "language": "en",
+    "tags": ["humanities", "values", "education"]
+  },
+  {
+    "id": "tc-009",
+    "text": "My generation has failed you. In so many ways we have failed. I think we have given up on the dream of affordable high-quality education. We have given up on the dream of a basic social safety net. And we have given up on the dream of meaningful, comprehensive federal privacy legislation. These are not inventions of the people in power. They're failures of the people in power.",
+    "author": "Tim Cook",
+    "source": "Tulane University Commencement Address",
+    "year": 2019,
+    "language": "en",
+    "tags": ["values", "education", "privacy", "society"]
+  },
+  {
+    "id": "tc-010",
+    "text": "You don't have to choose between doing good and doing well. It's a false choice, today more than ever.",
+    "author": "Tim Cook",
+    "source": "Speech at George Washington University Commencement",
+    "year": 2015,
+    "language": "en",
+    "tags": ["values", "purpose", "business"]
+  },
+  {
+    "id": "tc-011",
+    "text": "We don't want to use you as our product. We just have a fundamental issue with doing that. And we've always thought that the building of a detailed profile about your life could result in tragic things.",
+    "author": "Tim Cook",
+    "source": "CNBC interview with Becky Quick at the Berkshire Hathaway shareholder meeting",
+    "year": 2019,
+    "language": "en",
+    "tags": ["privacy", "values"]
+  },
+  {
+    "id": "tc-012",
+    "text": "I think there's too much focus right now on fines and breakups and not enough on the data that the companies hold that users did not make an informed decision to give to.",
+    "author": "Tim Cook",
+    "source": "ABC News interview with Rebecca Jarvis",
+    "year": 2019,
+    "language": "en",
+    "tags": ["privacy", "antitrust", "regulation"]
+  },
+  {
+    "id": "tc-013",
+    "text": "The sidelines are not where you want to live your life. The world needs you in the arena.",
+    "author": "Tim Cook",
+    "source": "Auburn University Commencement Address",
+    "year": 2010,
+    "language": "en",
+    "tags": ["leadership", "courage", "action"]
+  },
+  {
+    "id": "tc-014",
+    "text": "Apple has a culture of excellence that is, I think, so unique and so special. I'm not going to witness or permit the change of it.",
+    "author": "Tim Cook",
+    "source": "Bloomberg Businessweek interview",
+    "year": 2014,
+    "language": "en",
+    "tags": ["culture", "leadership", "values"]
+  },
+  {
+    "id": "tc-015",
+    "text": "We do things because they are right and just, not because they are popular or fashionable. Our values lead us.",
+    "author": "Tim Cook",
+    "source": "Apple Q4 2015 earnings call opening remarks",
+    "year": 2015,
+    "language": "en",
+    "tags": ["values", "leadership", "earnings"]
+  },
+  {
+    "id": "tc-016",
+    "text": "I'd rather Apple cannibalize Apple than somebody else cannibalize Apple.",
+    "author": "Tim Cook",
+    "source": "AllThingsD / D11 conference interview with Walt Mossberg",
+    "year": 2013,
+    "language": "en",
+    "tags": ["strategy", "product", "leadership"]
+  },
+  {
+    "id": "tc-017",
+    "text": "What all of us have to do is to make sure we are using AI in a way that is for the benefit of humanity, not to the detriment of humanity.",
+    "author": "Tim Cook",
+    "source": "Good Morning Britain / BBC interview",
+    "year": 2018,
+    "language": "en",
+    "tags": ["ai", "humanity", "values"]
+  },
+  {
+    "id": "wz-001",
+    "text": "Never trust a computer you can't throw out a window.",
+    "author": "Steve Wozniak",
+    "source": "Interview with Kevin Purdy, Lifehacker",
+    "year": 2009,
+    "language": "en",
+    "tags": ["engineering", "humor", "technology"]
+  },
+  {
+    "id": "wz-002",
+    "text": "If you love what you do and are willing to do what it takes, it's within your reach. And it'll be worth every minute you spend alone at night, thinking and thinking about what it is you want to design or build. It'll be worth it, I promise.",
+    "author": "Steve Wozniak",
+    "source": "iWoz: Computer Geek to Cult Icon, p. 300 (W. W. Norton & Company, 2006)",
+    "year": 2006,
+    "language": "en",
+    "tags": ["engineering", "passion", "design"]
+  },
+  {
+    "id": "wz-003",
+    "text": "I learned not to worry so much about the outcome, but to concentrate on the step I was on and to try to do it as perfectly as I could when I was doing it.",
+    "author": "Steve Wozniak",
+    "source": "iWoz: Computer Geek to Cult Icon, p. 290",
+    "year": 2006,
+    "language": "en",
+    "tags": ["engineering", "focus", "craft"]
+  },
+  {
+    "id": "wz-004",
+    "text": "Our first computers were born not out of greed or ego, but in the revolutionary spirit of helping common people rise above the most powerful institutions.",
+    "author": "Steve Wozniak",
+    "source": "iWoz: Computer Geek to Cult Icon",
+    "year": 2006,
+    "language": "en",
+    "tags": ["apple", "values", "revolution"]
+  },
+  {
+    "id": "wz-005",
+    "text": "Wherever smart people work, doors are unlocked.",
+    "author": "Steve Wozniak",
+    "source": "Saturday keynote speech, The Fifth HOPE (Hackers on Planet Earth) Conference",
+    "year": 2004,
+    "language": "en",
+    "tags": ["culture", "engineering", "work"]
+  },
+  {
+    "id": "wz-006",
+    "text": "Most inventors and engineers I've met are like me. They're shy and they live in their heads. The very best of them are artists. And artists work best alone.",
+    "author": "Steve Wozniak",
+    "source": "iWoz: Computer Geek to Cult Icon, p. 290",
+    "year": 2006,
+    "language": "en",
+    "tags": ["engineering", "creativity", "solitude"]
+  },
+  {
+    "id": "wz-007",
+    "text": "The easier it is to do something, the harder it is to change the way you do it.",
+    "author": "Steve Wozniak",
+    "source": "Interview / lecture appearances",
+    "year": 2012,
+    "language": "en",
+    "tags": ["engineering", "change", "habit"]
+  },
+  {
+    "id": "wz-008",
+    "text": "I never sought wealth or power, and in fact evaded it. I was able to finish my degree in EE&CS and to fulfill a lifelong goal to teach 5th graders (8 years, up to teaching 7 days a week, public schools, no press allowed).",
+    "author": "Steve Wozniak",
+    "source": "Reddit AMA, r/IAmA",
+    "year": 2016,
+    "language": "en",
+    "tags": ["education", "values", "teaching"]
+  },
+  {
+    "id": "wz-009",
+    "text": "My father explained to me that education and knowledge is what will allow children to improve the world.",
+    "author": "Steve Wozniak",
+    "source": "EntelSummit keynote",
+    "year": 2012,
+    "language": "en",
+    "tags": ["education", "family", "values"]
+  },
+  {
+    "id": "wz-010",
+    "text": "I decided early on that education was really important. I told my dad in sixth grade that when I grow up I'm going to be an electrical engineer like you but second I'm going to be a fifth grade teacher because the importance of teachers and the value of education was so deep in my heart.",
+    "author": "Steve Wozniak",
+    "source": "SAP SapphireNow keynote",
+    "year": 2016,
+    "language": "en",
+    "tags": ["education", "engineering", "teaching"]
+  },
+  {
+    "id": "ji-001",
+    "text": "I think there is a profound and enduring beauty in simplicity; in clarity, in efficiency. True simplicity is derived from so much more than just the absence of clutter and ornamentation. It's about bringing order to complexity.",
+    "author": "Jony Ive",
+    "source": "iOS 7 product video, WWDC keynote",
+    "year": 2013,
+    "language": "en",
+    "tags": ["design", "simplicity", "philosophy"]
+  },
+  {
+    "id": "ji-002",
+    "text": "There's an applied style of being minimal and simple, and then there's real simplicity. This looks simple, because it really is.",
+    "author": "Jony Ive",
+    "source": "Interview with Leander Kahney, Wired News magazine, on the Apple Cinema Display",
+    "year": 2003,
+    "language": "en",
+    "tags": ["design", "simplicity"]
+  },
+  {
+    "id": "ji-003",
+    "text": "I think a beautiful product that doesn't work very well is ugly.",
+    "author": "Jony Ive",
+    "source": "Interview with Vanity Fair, 'Jonathan Ive Shares Three Lessons He Learned From Steve Jobs'",
+    "year": 2014,
+    "language": "en",
+    "tags": ["design", "function", "craft"]
+  },
+  {
+    "id": "ji-004",
+    "text": "Simplicity is not the absence of clutter, that's a consequence of simplicity. Simplicity is somehow essentially describing the purpose and place of an object and product. The absence of clutter is just a clutter-free product. That's not simple.",
+    "author": "Jony Ive",
+    "source": "Interview with Mark Prigg, The Independent",
+    "year": 2012,
+    "language": "en",
+    "tags": ["design", "simplicity", "philosophy"]
+  },
+  {
+    "id": "ji-005",
+    "text": "It's very easy to be different, but very difficult to be better.",
+    "author": "Jony Ive",
+    "source": "Talk at the 'What Next for Design?' Design Museum (DM25) discussion, London",
+    "year": 2014,
+    "language": "en",
+    "tags": ["design", "improvement", "philosophy"]
+  },
+  {
+    "id": "ji-006",
+    "text": "What I will remember most fondly will not be the products. It will be the process. It will be how fortunate I've been to work with some of the most extraordinary people on the planet.",
+    "author": "Jony Ive",
+    "source": "New Yorker Festival 'TechFest' conversation with David Remnick",
+    "year": 2017,
+    "language": "en",
+    "tags": ["team", "craft", "process"]
+  },
+  {
+    "id": "ji-007",
+    "text": "Why do we assume that simple is good? Because with physical products, we have to feel we can dominate them. As you bring order to complexity, you find a way to make the product defer to you. Simplicity isn't just a visual style. It's not just minimalism or the absence of clutter. It involves digging through the depth of the complexity. To be truly simple, you have to go really deep.",
+    "author": "Jony Ive",
+    "source": "Quoted in Walter Isaacson, Smithsonian Magazine",
+    "year": 2012,
+    "language": "en",
+    "tags": ["design", "simplicity", "depth"]
+  },
+  {
+    "id": "ji-008",
+    "text": "We try to solve very complicated problems without letting people know how complicated the problem was.",
+    "author": "Jony Ive",
+    "source": "Lecture at the Design Museum, London",
+    "year": 2014,
+    "language": "en",
+    "tags": ["design", "engineering", "user experience"]
+  },
+  {
+    "id": "ji-009",
+    "text": "The defining qualities are about use: ease and simplicity. Caring beyond the functional imperative, we also acknowledge that products have a significance way beyond traditional notions of productivity.",
+    "author": "Jony Ive",
+    "source": "Profile on the Design Museum (Design Museum Designer of the Year profile)",
+    "year": 2003,
+    "language": "en",
+    "tags": ["design", "care", "humanity"]
+  },
+  {
+    "id": "ji-010",
+    "text": "A small change at the beginning of the design process defines an entirely different product at the end.",
+    "author": "Jony Ive",
+    "source": "'What Next for Design? with Jonathan Ive', Design Museum",
+    "year": 2014,
+    "language": "en",
+    "tags": ["design", "process", "craft"]
+  },
+  {
+    "id": "ps-001",
+    "text": "We don't get a chance to do that many things, and every one should be really excellent. It should be the object of labor of our best talents.",
+    "author": "Phil Schiller",
+    "source": "Apple marketing philosophy, frequently cited at Apple events",
+    "year": 2012,
+    "language": "en",
+    "tags": ["excellence", "leadership", "values"]
+  },
+  {
+    "id": "ps-002",
+    "text": "It's really hard to design products by focus groups. A lot of times, people don't know what they want until you show it to them.",
+    "author": "Phil Schiller",
+    "source": "Apple marketing philosophy",
+    "year": 2013,
+    "language": "en",
+    "tags": ["design", "innovation", "product"]
+  },
+  {
+    "id": "ps-003",
+    "text": "If it weren't for iPod, I don't know that there would ever be iPhone. It introduced Apple to customers that were not typical Apple customers.",
+    "author": "Phil Schiller",
+    "source": "Backchannel interview with Steven Levy",
+    "year": 2017,
+    "language": "en",
+    "tags": ["iphone", "ipod", "innovation"]
+  },
+  {
+    "id": "ps-004",
+    "text": "People are forgetting the value and importance of the display. Some of the greatest innovations on iPhone over the last ten years have been in display. Displays are not going to go away.",
+    "author": "Phil Schiller",
+    "source": "Backchannel interview with Steven Levy",
+    "year": 2017,
+    "language": "en",
+    "tags": ["display", "iphone", "design"]
+  },
+  {
+    "id": "ps-005",
+    "text": "The new iPad Pro introduces advanced technologies never before available in mobile computing. Combining the most advanced mobile display with powerful performance, pro cameras, pro audio, the breakthrough LiDAR Scanner and new Magic Keyboard with Trackpad, this is another huge leap forward for iPad.",
+    "author": "Phil Schiller",
+    "source": "Apple Press Release, iPad Pro with LiDAR",
+    "year": 2020,
+    "language": "en",
+    "tags": ["ipad", "product", "design"]
+  },
+  {
+    "id": "ps-006",
+    "text": "We've built a store for the most part that people can trust. You and your family and friends can download applications from the store, and for the most part they do what you'd expect, and they get onto your phone, and you get billed appropriately, and it all just works.",
+    "author": "Phil Schiller",
+    "source": "BusinessWeek interview on the App Store approvals process",
+    "year": 2009,
+    "language": "en",
+    "tags": ["app-store", "trust", "product"]
+  },
+  {
+    "id": "ec-001",
+    "text": "I always joke that people ask, 'How's work?' and I say I work about 30 days a year. They say, '30 days? What do you mean?' I say the other 300 days are the fun days and 30 days are the work days. If you can find what you love, it doesn't feel like work.",
+    "author": "Eddy Cue",
+    "source": "SuperSaf YouTube interview",
+    "year": 2024,
+    "language": "en",
+    "tags": ["passion", "leadership", "career"]
+  },
+  {
+    "id": "ec-002",
+    "text": "You may not need an iPhone 10 years from now as crazy as it sounds. The only way you truly have true competition is when you have technology shifts. Technology shifts create these opportunities. AI is a new technology shift, and it's creating new opportunities for new entrants.",
+    "author": "Eddy Cue",
+    "source": "Testimony in Google antitrust trial, as reported by Bloomberg",
+    "year": 2025,
+    "language": "en",
+    "tags": ["ai", "iphone", "future", "competition"]
+  },
+  {
+    "id": "ec-003",
+    "text": "People will pay for great services. They said they wouldn't pay 99 cents for a song but they did. We've always believed that. When you go to work, you don't work for free; nobody works for free.",
+    "author": "Eddy Cue",
+    "source": "Eddy Cue commentary on Apple Music and the iTunes Store model",
+    "year": 2015,
+    "language": "en",
+    "tags": ["services", "music", "business"]
+  },
+  {
+    "id": "ec-004",
+    "text": "Competition on anything is good, because it makes everybody better.",
+    "author": "Eddy Cue",
+    "source": "Eddy Cue interview on competition in streaming and services",
+    "year": 2015,
+    "language": "en",
+    "tags": ["competition", "business", "leadership"]
+  },
+  {
+    "id": "ec-005",
+    "text": "We've got the best product pipeline that I've seen in my 25 years at Apple.",
+    "author": "Eddy Cue",
+    "source": "Eddy Cue on Apple's services and product roadmap",
+    "year": 2014,
+    "language": "en",
+    "tags": ["product", "innovation", "leadership"]
+  },
+  {
+    "id": "cf-001",
+    "text": "We don't want to build sporks. Someone said, 'If a spoon's great, a fork's great, then let's combine them into a single utensil, right?' It turns out it's not a good spoon and it's not a good fork. It's a bad idea.",
+    "author": "Craig Federighi",
+    "source": "MacStories interview with Federico Viticci",
+    "year": 2025,
+    "language": "en",
+    "tags": ["design", "ipad", "mac", "philosophy"]
+  },
+  {
+    "id": "cf-002",
+    "text": "I became an engineer because I believe in the power of technology to enrich our lives.",
+    "author": "Craig Federighi",
+    "source": "Craig Federighi public statement on engineering and Apple's mission",
+    "year": 2017,
+    "language": "en",
+    "tags": ["engineering", "values", "leadership"]
+  },
+  {
+    "id": "cf-003",
+    "text": "We want AI not to replace our users, but to empower them.",
+    "author": "Craig Federighi",
+    "source": "WWDC presentation on Apple Intelligence",
+    "year": 2024,
+    "language": "en",
+    "tags": ["ai", "values", "design"]
+  },
+  {
+    "id": "cf-004",
+    "text": "We're not taking this teenager and telling it to go fly an airplane.",
+    "author": "Craig Federighi",
+    "source": "Craig Federighi on Apple Intelligence, widely reported",
+    "year": 2024,
+    "language": "en",
+    "tags": ["ai", "siri", "design"]
+  },
+  {
+    "id": "cf-005",
+    "text": "Siri's 100 percent not into that. Siri is not here to be your AI girlfriend.",
+    "author": "Craig Federighi",
+    "source": "Interview with Mostly Human during WWDC",
+    "year": 2024,
+    "language": "en",
+    "tags": ["siri", "ai", "design"]
+  },
+  {
+    "id": "sk-001",
+    "text": "Meaningful, Memorable, Clear.",
+    "author": "Susan Kare",
+    "source": "Cooper Hewitt Smithsonian Q&A",
+    "year": 2019,
+    "language": "en",
+    "tags": ["design", "principles", "icon"]
+  },
+  {
+    "id": "sk-002",
+    "text": "I hoped to help counter the stereotypical image of computers as cold and intimidating.",
+    "author": "Susan Kare",
+    "source": "Susan Kare on designing the original Macintosh icons",
+    "year": 1984,
+    "language": "en",
+    "tags": ["design", "mac", "icon"]
+  },
+  {
+    "id": "sk-003",
+    "text": "I like to think that good icons are instantly recognizable — even if someone's never seen it, you can ask them what it does, and they get it — or it's so easy to remember that if someone tells you what it is once, it's easy to remember when you look at it.",
+    "author": "Susan Kare",
+    "source": "Interview with Alex Pang, Stanford Macintosh Project archives",
+    "year": 2000,
+    "language": "en",
+    "tags": ["icon", "design", "principles"]
+  },
+  {
+    "id": "sk-004",
+    "text": "Bitmap graphics are like mosaics and needlepoint and other pseudo-digital art forms, all of which I had practiced before going to Apple.",
+    "author": "Susan Kare",
+    "source": "Interview with Alex Pang, Stanford Macintosh Project archives",
+    "year": 2000,
+    "language": "en",
+    "tags": ["design", "art", "mac"]
+  },
+  {
+    "id": "sk-005",
+    "text": "It's been drummed into me by colleagues and designers I respect that it's of major importance to think about what images mean, not just what they look like.",
+    "author": "Susan Kare",
+    "source": "Cooper Hewitt Smithsonian Q&A",
+    "year": 2019,
+    "language": "en",
+    "tags": ["design", "principles", "advice"]
+  },
+  {
+    "id": "ba-001",
+    "text": "I have realized over time that I missed the mark with HyperCard. I grew up in a box-centric culture at Apple. If I'd grown up in a network-centric culture, like Sun, HyperCard might have been the first Web browser. My blind spot at Apple prevented me from making HyperCard the first Web browser.",
+    "author": "Bill Atkinson",
+    "source": "Wired interview with Leander Kahney",
+    "year": 2002,
+    "language": "en",
+    "tags": ["hypercard", "engineering", "reflection"]
+  },
+  {
+    "id": "ba-002",
+    "text": "Simply put, HyperCard is a software erector set that lets non-programmers put together interactive information. We use cards that contain graphics and text and buttons. The cards are grouped together in stacks and you can organize it so that any card can jump to any other card.",
+    "author": "Bill Atkinson",
+    "source": "Johns Hopkins University Press on HyperCard",
+    "year": 1987,
+    "language": "en",
+    "tags": ["hypercard", "design", "democratization"]
+  },
+  {
+    "id": "ba-003",
+    "text": "Think how fun it is to surf on the front edge of a wave, and how not-fun to dog paddle on the tail edge of the same wave.",
+    "author": "Bill Atkinson",
+    "source": "Folklore.org, 40th anniversary reflection",
+    "year": 2018,
+    "language": "en",
+    "tags": ["innovation", "career", "philosophy"]
+  },
+  {
+    "id": "ba-004",
+    "text": "I'm a cross between an artist and an inventor.",
+    "author": "Bill Atkinson",
+    "source": "Early Macintosh launch advertisement",
+    "year": 1983,
+    "language": "en",
+    "tags": ["identity", "art", "engineering"]
+  },
+  {
+    "id": "jr-001",
+    "text": "As far as the customer is concerned, the interface is the product.",
+    "author": "Jef Raskin",
+    "source": "The Humane Interface (Addison-Wesley)",
+    "year": 2000,
+    "language": "en",
+    "tags": ["design", "ux", "principles"]
+  },
+  {
+    "id": "jr-002",
+    "text": "An interface is humane if it is responsive to human needs and considerate of human frailties.",
+    "author": "Jef Raskin",
+    "source": "The Humane Interface (Addison-Wesley)",
+    "year": 2000,
+    "language": "en",
+    "tags": ["design", "ux", "principles"]
+  },
+  {
+    "id": "jr-003",
+    "text": "Users do not care about what is inside the box, as long as the box does what they need done.",
+    "author": "Jef Raskin",
+    "source": "The Humane Interface (Addison-Wesley)",
+    "year": 2000,
+    "language": "en",
+    "tags": ["design", "ux", "philosophy"]
+  },
+  {
+    "id": "jr-004",
+    "text": "Once the product's task is known, design the interface first; then implement to the interface design.",
+    "author": "Jef Raskin",
+    "source": "Programmers At Work (Susan Lammers interview)",
+    "year": 1986,
+    "language": "en",
+    "tags": ["design", "engineering", "process"]
+  },
+  {
+    "id": "jr-005",
+    "text": "A computer shall not waste your time or require you to do more work than is strictly necessary.",
+    "author": "Jef Raskin",
+    "source": "The Humane Interface (Addison-Wesley)",
+    "year": 2000,
+    "language": "en",
+    "tags": ["design", "principles", "ux"]
+  },
+  {
+    "id": "js-001",
+    "text": "Do you want to sell sugar water for the rest of your life or do you want to come with me and change the world?",
+    "author": "John Sculley",
+    "source": "Recalling Steve Jobs' 1983 recruiting pitch",
+    "year": 1983,
+    "language": "en",
+    "tags": ["leadership", "story", "recruiting"]
+  },
+  {
+    "id": "js-002",
+    "text": "One of the key insights we learned was that you don't sell the product, you sell the experience.",
+    "author": "John Sculley",
+    "source": "The Mac Observer / Computer History Museum",
+    "year": 2012,
+    "language": "en",
+    "tags": ["marketing", "product", "experience"]
+  },
+  {
+    "id": "js-003",
+    "text": "It was a big mistake that I was ever hired as Apple's CEO. Steve should have been given the job.",
+    "author": "John Sculley",
+    "source": "Cult of Mac interview with Leander Kahney",
+    "year": 2010,
+    "language": "en",
+    "tags": ["leadership", "reflection", "apple-history"]
+  },
+  {
+    "id": "do-001",
+    "text": "People come to Apple to do the best work of their lives, and our retail teams show their passion day in and day out, in every interaction, all around the world. It is the opportunity of a lifetime to work and learn with such a talented, diverse and creative team.",
+    "author": "Deirdre O'Brien",
+    "source": "Apple Press Release on SVP Retail + People appointment",
+    "year": 2019,
+    "language": "en",
+    "tags": ["retail", "people", "values"]
+  },
+  {
+    "id": "do-002",
+    "text": "I have been an incredible believer that the special thing about Apple is its people. I've always loved the way Apple works. I've always been fascinated by it and I was lucky enough to because Apple runs like a small company. You kind of have a front row seat watching an incredibly successful company.",
+    "author": "Deirdre O'Brien",
+    "source": "Cult of Mac interview",
+    "year": 2018,
+    "language": "en",
+    "tags": ["leadership", "people", "culture"]
+  },
+  {
+    "id": "do-003",
+    "text": "We want people to feel the same care we put into our products in our stores — and so we look for opportunities to create stores that are unique and special.",
+    "author": "Deirdre O'Brien",
+    "source": "Vogue Singapore interview",
+    "year": 2023,
+    "language": "en",
+    "tags": ["retail", "design", "experience"]
+  }
+]

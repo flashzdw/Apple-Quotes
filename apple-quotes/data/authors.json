@@ -1,0 +1,88 @@
+{
+  "authors": [
+    {
+      "id": "sj",
+      "name": "Steve Jobs",
+      "role": "Co-founder & Former CEO",
+      "bio": "Apple 的联合创始人之一，被视为 20 世纪最具影响力的商业领袖之一。",
+      "quoteCount": 30
+    },
+    {
+      "id": "tc",
+      "name": "Tim Cook",
+      "role": "CEO",
+      "bio": "2011 年接任 Apple CEO，倡导隐私、教育与环境等价值观。",
+      "quoteCount": 17
+    },
+    {
+      "id": "wz",
+      "name": "Steve Wozniak",
+      "role": "Co-founder",
+      "bio": "Apple I 与 Apple II 的核心工程师，自称 engineer by heart。",
+      "quoteCount": 10
+    },
+    {
+      "id": "ji",
+      "name": "Jony Ive",
+      "role": "Former Chief Design Officer",
+      "bio": "主导 iMac、iPod、iPhone、Apple Watch 等产品的设计哲学。",
+      "quoteCount": 10
+    },
+    {
+      "id": "ps",
+      "name": "Phil Schiller",
+      "role": "Former SVP Worldwide Marketing",
+      "bio": "在 Apple 工作超过 30 年，见证 Mac、iPod、iPhone 的发布。",
+      "quoteCount": 6
+    },
+    {
+      "id": "ec",
+      "name": "Eddy Cue",
+      "role": "SVP Services",
+      "bio": "负责 iTunes Store、App Store、Apple Music、Apple TV+ 等服务。",
+      "quoteCount": 5
+    },
+    {
+      "id": "cf",
+      "name": "Craig Federighi",
+      "role": "SVP Software Engineering",
+      "bio": "负责 macOS、iOS、iPadOS 等软件系统的开发。",
+      "quoteCount": 5
+    },
+    {
+      "id": "sk",
+      "name": "Susan Kare",
+      "role": "Iconographer, Original Macintosh Designer",
+      "bio": "设计了 Macintosh 经典图标与字体，2019 年国家设计终身成就奖得主。",
+      "quoteCount": 5
+    },
+    {
+      "id": "ba",
+      "name": "Bill Atkinson",
+      "role": "Apple Fellow, QuickDraw & HyperCard Creator",
+      "bio": "QuickDraw 与 HyperCard 的创造者，Mac 早期核心工程师。",
+      "quoteCount": 4
+    },
+    {
+      "id": "jr",
+      "name": "Jef Raskin",
+      "role": "Initiator of the Macintosh Project",
+      "bio": "Macintosh 项目的发起者，《The Humane Interface》作者。",
+      "quoteCount": 5
+    },
+    {
+      "id": "js",
+      "name": "John Sculley",
+      "role": "Former CEO (1983–1993)",
+      "bio": "1983 年起担任 Apple CEO，1984 年推出 Macintosh。",
+      "quoteCount": 3
+    },
+    {
+      "id": "do",
+      "name": "Deirdre O'Brien",
+      "role": "SVP Retail + People",
+      "bio": "负责 Apple 全球零售业务与人力资源。",
+      "quoteCount": 3
+    }
+  ]
+}
