@@ -1,0 +1,4972 @@
+{
+  "meta": {
+    "total": 373,
+    "personCount": 16,
+    "generatedAt": "2024-01-15"
+  },
+  "people": {
+    "Steve Jobs": {
+      "short": "Jobs",
+      "role": "Co-founder",
+      "color": "#E8A317",
+      "years": "1955-2011",
+      "cnName": "史蒂夫·乔布斯"
+    },
+    "Tim Cook": {
+      "short": "Cook",
+      "role": "CEO",
+      "color": "#0071e3",
+      "years": "2011-present",
+      "cnName": "蒂姆·库克"
+    },
+    "Jony Ive": {
+      "short": "Ive",
+      "role": "Chief Design Officer",
+      "color": "#86868b",
+      "years": "1992-2019",
+      "cnName": "乔尼·艾夫"
+    },
+    "Steve Wozniak": {
+      "short": "Woz",
+      "role": "Co-founder",
+      "color": "#34c759",
+      "years": "1950-present",
+      "cnName": "史蒂夫·沃兹尼亚克"
+    },
+    "Phil Schiller": {
+      "short": "Schiller",
+      "role": "Apple Fellow",
+      "color": "#ff9500",
+      "years": "1987-2020",
+      "cnName": "菲尔·席勒"
+    },
+    "Craig Federighi": {
+      "short": "Federighi",
+      "role": "SVP Software Engineering",
+      "color": "#5856d6",
+      "years": "1996-present",
+      "cnName": "克雷格·费德里吉"
+    },
+    "Johny Srouji": {
+      "short": "Srouji",
+      "role": "SVP Hardware Technologies",
+      "color": "#af52de",
+      "years": "2008-present",
+      "cnName": "约翰尼·斯鲁吉"
+    },
+    "Tony Fadell": {
+      "short": "Fadell",
+      "role": "iPod Father",
+      "color": "#ff3b30",
+      "years": "2001-2008",
+      "cnName": "托尼·法德尔"
+    },
+    "Scott Forstall": {
+      "short": "Forstall",
+      "role": "SVP iOS Software",
+      "color": "#5ac8fa",
+      "years": "1997-2012",
+      "cnName": "斯科特·福斯托尔"
+    },
+    "Ron Johnson": {
+      "short": "Johnson",
+      "role": "SVP Retail",
+      "color": "#ffcc00",
+      "years": "2000-2011",
+      "cnName": "罗恩·约翰逊"
+    },
+    "Angela Ahrendts": {
+      "short": "Ahrendts",
+      "role": "SVP Retail",
+      "color": "#ff2d55",
+      "years": "2014-2019",
+      "cnName": "安吉拉·阿伦茨"
+    },
+    "Eddy Cue": {
+      "short": "Cue",
+      "role": "SVP Services",
+      "color": "#64d2ff",
+      "years": "1989-present",
+      "cnName": "埃迪·库伊"
+    },
+    "Jeff Williams": {
+      "short": "Williams",
+      "role": "COO",
+      "color": "#30b0c7",
+      "years": "1998-present",
+      "cnName": "杰夫·威廉姆斯"
+    },
+    "Greg Joswiak": {
+      "short": "Joswiak",
+      "role": "SVP Marketing",
+      "color": "#a2845e",
+      "years": "1986-present",
+      "cnName": "格雷格·乔斯维亚克"
+    },
+    "Dan Riccio": {
+      "short": "Riccio",
+      "role": "VP Hardware",
+      "color": "#8e8e93",
+      "years": "1998-present",
+      "cnName": "丹·里乔"
+    },
+    "Luca Maestri": {
+      "short": "Maestri",
+      "role": "CFO",
+      "color": "#c69f6e",
+      "years": "2013-2025",
+      "cnName": "卢卡·马埃斯特里"
+    }
+  },
+  "quotes": [
+    {
+      "id": 1,
+      "person": "Jony Ive",
+      "en": "There's a profound and enduring beauty in simplicity.",
+      "cn": "简约中有一种深刻而持久的美。",
+      "source": "Apple Event",
+      "time": "2013",
+      "tags": [
+        "simplicity",
+        "beauty",
+        "design"
+      ]
+    },
+    {
+      "id": 2,
+      "person": "Tim Cook",
+      "en": "There's something very special about being part of something bigger than yourself.",
+      "cn": "成为比自己更伟大的事物的一部分，有一种非常特殊的感觉。",
+      "source": "Commencement Speech",
+      "time": "2015",
+      "tags": [
+        "purpose",
+        "community",
+        "meaning"
+      ]
+    },
+    {
+      "id": 3,
+      "person": "Johny Srouji",
+      "en": "Performance per watt is the ultimate metric.",
+      "cn": "每瓦性能是终极指标。",
+      "source": "Apple Event",
+      "time": "2022",
+      "tags": [
+        "performance",
+        "hardware",
+        "efficiency"
+      ]
+    },
+    {
+      "id": 4,
+      "person": "Steve Wozniak",
+      "en": "Computers are bicycles for the mind.",
+      "cn": "电脑是心灵的自行车。",
+      "source": "Interview",
+      "time": "1990",
+      "tags": [
+        "computers",
+        "mind",
+        "tools"
+      ]
+    },
+    {
+      "id": 5,
+      "person": "Steve Wozniak",
+      "en": "Never trust a computer you can't throw out a window.",
+      "cn": "永远不要信任一台你不能扔出窗外的电脑。",
+      "source": "Interview",
+      "time": "2003",
+      "tags": [
+        "technology",
+        "humor",
+        "wisdom"
+      ]
+    },
+    {
+      "id": 6,
+      "person": "Eddy Cue",
+      "en": "Integration is the secret to Apple's services.",
+      "cn": "整合是苹果服务的秘密。",
+      "source": "Apple Event",
+      "time": "2019",
+      "tags": [
+        "services",
+        "integration",
+        "ecosystem"
+      ]
+    },
+    {
+      "id": 7,
+      "person": "Tim Cook",
+      "en": "It's not about money. It's about the people you have, how you're led, and how much you get it.",
+      "cn": "这不关乎金钱，这关乎你拥有的人，你如何领导，以及你有多理解。",
+      "source": "Interview",
+      "time": "2009",
+      "tags": [
+        "leadership",
+        "people",
+        "understanding"
+      ]
+    },
+    {
+      "id": 8,
+      "person": "Tim Cook",
+      "en": "We don't believe in competing on price. We believe in competing on value.",
+      "cn": "我们不相信价格战，我们相信价值竞争。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "value",
+        "strategy",
+        "quality"
+      ]
+    },
+    {
+      "id": 9,
+      "person": "Steve Wozniak",
+      "en": "Great engineering feels like magic to the user.",
+      "cn": "伟大的工程对用户来说感觉像魔法。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "engineering",
+        "magic",
+        "ux"
+      ]
+    },
+    {
+      "id": 10,
+      "person": "Tim Cook",
+      "en": "At Apple, we believe technology should lift humanity.",
+      "cn": "在苹果，我们相信科技应该提升人类。",
+      "source": "Apple Event",
+      "time": "2021",
+      "tags": [
+        "technology",
+        "humanity",
+        "purpose"
+      ]
+    },
+    {
+      "id": 11,
+      "person": "Jony Ive",
+      "en": "A product communicates through its design. It's the most direct way to speak to a user.",
+      "cn": "产品通过设计来交流，这是与用户沟通最直接的方式。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "design",
+        "communication",
+        "product"
+      ]
+    },
+    {
+      "id": 12,
+      "person": "Luca Maestri",
+      "en": "Investing in R&D is investing in our future.",
+      "cn": "对研发的投入就是对未来的投入。",
+      "source": "Apple Event",
+      "time": "2019",
+      "tags": [
+        "finance",
+        "investment",
+        "future"
+      ]
+    },
+    {
+      "id": 13,
+      "person": "Tim Cook",
+      "en": "We believe that privacy is a fundamental human right.",
+      "cn": "我们相信隐私是一项基本人权。",
+      "source": "Apple Event",
+      "time": "2016",
+      "tags": [
+        "privacy",
+        "rights",
+        "values"
+      ]
+    },
+    {
+      "id": 14,
+      "person": "Jony Ive",
+      "en": "There's a profound responsibility in designing products that people use every day.",
+      "cn": "在设计人们每天使用的产品时，有一种深刻的责任感。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "responsibility",
+        "design",
+        "impact"
+      ]
+    },
+    {
+      "id": 15,
+      "person": "Steve Wozniak",
+      "en": "I wanted to share what I built with others. That was the whole point.",
+      "cn": "我想与他人分享我建造的东西，这就是全部意义。",
+      "source": "Interview",
+      "time": "2012",
+      "tags": [
+        "sharing",
+        "openness",
+        "community"
+      ]
+    },
+    {
+      "id": 16,
+      "person": "Jony Ive",
+      "en": "We don't do market research. It will only ensure mediocrity.",
+      "cn": "我们不做市场调研，它只会确保平庸。",
+      "source": "Interview",
+      "time": "2012",
+      "tags": [
+        "design",
+        "research",
+        "excellence"
+      ]
+    },
+    {
+      "id": 17,
+      "person": "Jony Ive",
+      "en": "We want to create things that feel inevitable, not forced.",
+      "cn": "我们想创造感觉不可避免的东西，而不是强制的。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "design",
+        "natural",
+        "product"
+      ]
+    },
+    {
+      "id": 18,
+      "person": "Jony Ive",
+      "en": "We're always trying to make something better.",
+      "cn": "我们总是试图做得更好。",
+      "source": "Apple Event",
+      "time": "2013",
+      "tags": [
+        "improvement",
+        "excellence",
+        "craft"
+      ]
+    },
+    {
+      "id": 19,
+      "person": "Jeff Williams",
+      "en": "Operations is the heart of every product.",
+      "cn": "运营是每一款产品的核心。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "operations",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": 20,
+      "person": "Tim Cook",
+      "en": "We want to build products that people love.",
+      "cn": "我们想建造人们喜欢的产品。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "product",
+        "love",
+        "customer"
+      ]
+    },
+    {
+      "id": 21,
+      "person": "Tim Cook",
+      "en": "The most powerful person in the world is the storyteller.",
+      "cn": "世界上最强大的人是讲故事的人。",
+      "source": "Interview",
+      "time": "2009",
+      "tags": [
+        "storytelling",
+        "power",
+        "influence"
+      ]
+    },
+    {
+      "id": 22,
+      "person": "Steve Wozniak",
+      "en": "Wherever smart people work, doors are unlocked.",
+      "cn": "哪里有聪明人工作，哪里的门就会打开。",
+      "source": "Interview",
+      "time": "2006",
+      "tags": [
+        "intelligence",
+        "opportunity",
+        "work"
+      ]
+    },
+    {
+      "id": 23,
+      "person": "Steve Wozniak",
+      "en": "The most important thing is to have a good heart and to want to help people.",
+      "cn": "最重要的是要有一颗善良的心并想帮助他人。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "kindness",
+        "helping",
+        "humanity"
+      ]
+    },
+    {
+      "id": 24,
+      "person": "Steve Wozniak",
+      "en": "Always build things you'd want to use yourself.",
+      "cn": "总是建造你自己想用的东西。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "product",
+        "dogfooding",
+        "craft"
+      ]
+    },
+    {
+      "id": 25,
+      "person": "Greg Joswiak",
+      "en": "Marketing is storytelling at its best.",
+      "cn": "营销是最高级的讲故事。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "marketing",
+        "storytelling",
+        "communication"
+      ]
+    },
+    {
+      "id": 26,
+      "person": "Steve Wozniak",
+      "en": "Technology should make people's lives easier, not harder.",
+      "cn": "技术应该让人们的生活更轻松，而不是更困难。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "technology",
+        "ux",
+        "simplicity"
+      ]
+    },
+    {
+      "id": 27,
+      "person": "Scott Forstall",
+      "en": "Skeuomorphism helps people feel comfortable.",
+      "cn": "拟物化帮助人们感到舒适。",
+      "source": "Interview",
+      "time": "2012",
+      "tags": [
+        "design",
+        "ui",
+        "psychology"
+      ]
+    },
+    {
+      "id": 28,
+      "person": "Steve Wozniak",
+      "en": "Every dream I've ever had in life has come true ten times over.",
+      "cn": "我生命中每一个梦想都已经实现了十次以上。",
+      "source": "Autobiography",
+      "time": "2006",
+      "tags": [
+        "dreams",
+        "success",
+        "gratitude"
+      ]
+    },
+    {
+      "id": 29,
+      "person": "Steve Jobs",
+      "en": "We're gambling on our vision, and we would rather do that than make 'me too' products.",
+      "cn": "我们在赌我们的愿景，我们宁愿这样做也不愿做'我也是'的产品。",
+      "source": "Interview",
+      "time": "1983",
+      "tags": [
+        "vision",
+        "courage",
+        "innovation"
+      ]
+    },
+    {
+      "id": 30,
+      "person": "Steve Wozniak",
+      "en": "The best code is written by people who care about the user.",
+      "cn": "最好的代码是由关心用户的人写的。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "code",
+        "care",
+        "user"
+      ]
+    },
+    {
+      "id": 31,
+      "person": "Craig Federighi",
+      "en": "Swift isn't just a programming language. It's a way of thinking about code.",
+      "cn": "Swift不仅是一种编程语言，它是一种思考代码的方式。",
+      "source": "WWDC",
+      "time": "2014",
+      "tags": [
+        "technology",
+        "programming",
+        "innovation"
+      ]
+    },
+    {
+      "id": 32,
+      "person": "Jony Ive",
+      "en": "The best design is invisible. You don't notice it because it works so well.",
+      "cn": "最好的设计是看不见的。你不会注意到它，因为它工作得如此之好。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "design",
+        "invisible",
+        "simplicity"
+      ]
+    },
+    {
+      "id": 33,
+      "person": "Jony Ive",
+      "en": "Simplicity is not the absence of clutter, but the presence of clarity.",
+      "cn": "简约不是去除杂乱，而是拥有清晰。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "simplicity",
+        "clarity",
+        "design"
+      ]
+    },
+    {
+      "id": 34,
+      "person": "Steve Wozniak",
+      "en": "Engineers should build things that make the world better.",
+      "cn": "工程师应该建造让世界变得更好的东西。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "engineering",
+        "purpose",
+        "ethics"
+      ]
+    },
+    {
+      "id": 35,
+      "person": "Steve Wozniak",
+      "en": "The most satisfying projects are the ones that help people.",
+      "cn": "最令人满意的项目是帮助人们的项目。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "helping",
+        "purpose",
+        "impact"
+      ]
+    },
+    {
+      "id": 36,
+      "person": "Jony Ive",
+      "en": "The user experience is everything.",
+      "cn": "用户体验就是一切。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "ux",
+        "design",
+        "priority"
+      ]
+    },
+    {
+      "id": 37,
+      "person": "Scott Forstall",
+      "en": "Software should feel magical.",
+      "cn": "软件应该让人感觉神奇。",
+      "source": "Apple Event",
+      "time": "2011",
+      "tags": [
+        "software",
+        "magic",
+        "experience"
+      ]
+    },
+    {
+      "id": 38,
+      "person": "Steve Wozniak",
+      "en": "The Homebrew Computer Club was where it all started.",
+      "cn": "家酿计算机俱乐部是一切开始的地方。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "history",
+        "community",
+        "origins"
+      ]
+    },
+    {
+      "id": 39,
+      "person": "Steve Jobs",
+      "en": "It's not the customer's job to know what they want.",
+      "cn": "了解自己想要什么不是顾客的工作。",
+      "source": "Interview",
+      "time": "1998",
+      "tags": [
+        "innovation",
+        "customer",
+        "vision"
+      ]
+    },
+    {
+      "id": 40,
+      "person": "Steve Wozniak",
+      "en": "The world needs more people who build things.",
+      "cn": "世界需要更多建造东西的人。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "making",
+        "creation",
+        "purpose"
+      ]
+    },
+    {
+      "id": 41,
+      "person": "Tim Cook",
+      "en": "Success is not about being the biggest. It's about being the best.",
+      "cn": "成功不在于成为最大的，而在于成为最好的。",
+      "source": "Interview",
+      "time": "2017",
+      "tags": [
+        "excellence",
+        "success",
+        "values"
+      ]
+    },
+    {
+      "id": 42,
+      "person": "Angela Ahrendts",
+      "en": "Leaders must have empathy and courage in equal measure.",
+      "cn": "领导者必须同时具备同理心和勇气。",
+      "source": "Interview",
+      "time": "2018",
+      "tags": [
+        "leadership",
+        "empathy",
+        "courage"
+      ]
+    },
+    {
+      "id": 43,
+      "person": "Steve Jobs",
+      "en": "The people who built this company are some of the most passionate people on earth.",
+      "cn": "建立这家公司的人是地球上最有热情的人之一。",
+      "source": "Apple Event",
+      "time": "2011",
+      "tags": [
+        "passion",
+        "people",
+        "company"
+      ]
+    },
+    {
+      "id": 44,
+      "person": "Tim Cook",
+      "en": "We're just getting started.",
+      "cn": "我们才刚刚开始。",
+      "source": "Apple Event",
+      "time": "2014",
+      "tags": [
+        "future",
+        "ambition",
+        "optimism"
+      ]
+    },
+    {
+      "id": 45,
+      "person": "Jony Ive",
+      "en": "We don't want people to think about the design. We want them to think about what they're doing.",
+      "cn": "我们不希望人们思考设计，我们希望他们思考他们在做什么。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "design",
+        "invisible",
+        "ux"
+      ]
+    },
+    {
+      "id": 46,
+      "person": "Jony Ive",
+      "en": "The computer should be a natural extension of the mind.",
+      "cn": "电脑应该是心智的自然延伸。",
+      "source": "Interview",
+      "time": "2012",
+      "tags": [
+        "technology",
+        "design",
+        "philosophy"
+      ]
+    },
+    {
+      "id": 47,
+      "person": "Jony Ive",
+      "en": "A small object can have tremendous emotional resonance.",
+      "cn": "一个小物体可以产生巨大的情感共鸣。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "design",
+        "emotion",
+        "impact"
+      ]
+    },
+    {
+      "id": 48,
+      "person": "Steve Jobs",
+      "en": "We've got to make the small things unforgettable.",
+      "cn": "我们必须让小事情令人难忘。",
+      "source": "BusinessWeek",
+      "time": "2006",
+      "tags": [
+        "excellence",
+        "detail",
+        "craft"
+      ]
+    },
+    {
+      "id": 49,
+      "person": "Steve Jobs",
+      "en": "Stay hungry, stay foolish.",
+      "cn": "求知若饥，虚心若愚。",
+      "source": "Stanford Commencement",
+      "time": "2005",
+      "tags": [
+        "inspiration",
+        "life",
+        "courage"
+      ]
+    },
+    {
+      "id": 50,
+      "person": "Steve Wozniak",
+      "en": "Education is so important. We need to teach kids how to think, not what to think.",
+      "cn": "教育非常重要，我们需要教孩子如何思考，而不是思考什么。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "education",
+        "thinking",
+        "future"
+      ]
+    },
+    {
+      "id": 51,
+      "person": "Steve Wozniak",
+      "en": "Dream big and don't be afraid to fail.",
+      "cn": "大胆梦想，不要害怕失败。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "dreams",
+        "courage",
+        "failure"
+      ]
+    },
+    {
+      "id": 52,
+      "person": "Steve Wozniak",
+      "en": "The most valuable thing you can make is a difference in someone's life.",
+      "cn": "你能做的最有价值的事情是改变某人的生活。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "impact",
+        "helping",
+        "purpose"
+      ]
+    },
+    {
+      "id": 53,
+      "person": "Tim Cook",
+      "en": "We believe that we need to own and control the primary technologies behind the products we make.",
+      "cn": "我们相信我们需要拥有和控制我们产品背后的主要技术。",
+      "source": "Apple Event",
+      "time": "2014",
+      "tags": [
+        "technology",
+        "strategy",
+        "control"
+      ]
+    },
+    {
+      "id": 54,
+      "person": "Jony Ive",
+      "en": "What we make testifies who we are.",
+      "cn": "我们制造的东西证明了我们是谁。",
+      "source": "Interview",
+      "time": "2011",
+      "tags": [
+        "identity",
+        "craft",
+        "values"
+      ]
+    },
+    {
+      "id": 55,
+      "person": "Tim Cook",
+      "en": "The world needs more dreamers and doers.",
+      "cn": "世界需要更多梦想家和实干家。",
+      "source": "Commencement Speech",
+      "time": "2015",
+      "tags": [
+        "dreams",
+        "action",
+        "inspiration"
+      ]
+    },
+    {
+      "id": 56,
+      "person": "Steve Jobs",
+      "en": "You're already naked. There is no reason not to follow your heart.",
+      "cn": "你已经赤身裸体了，没有理由不追随你的内心。",
+      "source": "Stanford Commencement",
+      "time": "2005",
+      "tags": [
+        "courage",
+        "vulnerability",
+        "life"
+      ]
+    },
+    {
+      "id": 57,
+      "person": "Tim Cook",
+      "en": "The customer is not always right, but the customer always deserves respect.",
+      "cn": "顾客并不总是对的，但顾客总是值得尊重。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "customer",
+        "respect",
+        "ethics"
+      ]
+    },
+    {
+      "id": 58,
+      "person": "Steve Wozniak",
+      "en": "The future is built by those who dare to dream.",
+      "cn": "未来是由那些敢于梦想的人建造的。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "future",
+        "dreams",
+        "courage"
+      ]
+    },
+    {
+      "id": 59,
+      "person": "Steve Jobs",
+      "en": "I'm not dismissing the value of higher education; I'm simply saying it's not for everyone.",
+      "cn": "我不是在否定高等教育的价值，我只是说它不是适合每个人。",
+      "source": "Interview",
+      "time": "1996",
+      "tags": [
+        "education",
+        "thinking",
+        "path"
+      ]
+    },
+    {
+      "id": 60,
+      "person": "Tim Cook",
+      "en": "We don't believe in one size fits all.",
+      "cn": "我们不相信一刀切。",
+      "source": "Apple Event",
+      "time": "2014",
+      "tags": [
+        "personalization",
+        "product",
+        "choice"
+      ]
+    },
+    {
+      "id": 61,
+      "person": "Tim Cook",
+      "en": "We're not taking a back seat to anybody in AI.",
+      "cn": "我们在AI方面不会落后于任何人。",
+      "source": "Apple Event",
+      "time": "2023",
+      "tags": [
+        "ai",
+        "technology",
+        "innovation"
+      ]
+    },
+    {
+      "id": 62,
+      "person": "Steve Jobs",
+      "en": "I've always been attracted to the more revolutionary changes.",
+      "cn": "我一直被更革命性的变化所吸引。",
+      "source": "Interview",
+      "time": "1996",
+      "tags": [
+        "innovation",
+        "change",
+        "vision"
+      ]
+    },
+    {
+      "id": 63,
+      "person": "Jony Ive",
+      "en": "There's something deeply human about caring how things are made.",
+      "cn": "关心事物是如何制造的，这是一种深刻的人性。",
+      "source": "Interview",
+      "time": "2017",
+      "tags": [
+        "care",
+        "craft",
+        "humanity"
+      ]
+    },
+    {
+      "id": 64,
+      "person": "Jony Ive",
+      "en": "We're not trying to make fashion statements. We're trying to make great products.",
+      "cn": "我们不是在做时尚宣言，我们是在制造伟大的产品。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "product",
+        "substance",
+        "focus"
+      ]
+    },
+    {
+      "id": 65,
+      "person": "Steve Jobs",
+      "en": "We're here to put a dent in the universe.",
+      "cn": "我们在这里是为了在宇宙中留下印记。",
+      "source": "Interview",
+      "time": "1983",
+      "tags": [
+        "ambition",
+        "purpose",
+        "impact"
+      ]
+    },
+    {
+      "id": 66,
+      "person": "Tim Cook",
+      "en": "The most important decision we make is what not to do.",
+      "cn": "我们做出的最重要的决定是不做什么。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "focus",
+        "decision",
+        "strategy"
+      ]
+    },
+    {
+      "id": 67,
+      "person": "Craig Federighi",
+      "en": "The magic of software is that it keeps getting better.",
+      "cn": "软件的魔力在于它会不断变得更好。",
+      "source": "WWDC",
+      "time": "2018",
+      "tags": [
+        "software",
+        "innovation",
+        "technology"
+      ]
+    },
+    {
+      "id": 68,
+      "person": "Steve Wozniak",
+      "en": "The most important skill is learning how to learn.",
+      "cn": "最重要的技能是学习如何学习。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "learning",
+        "skill",
+        "growth"
+      ]
+    },
+    {
+      "id": 69,
+      "person": "Jony Ive",
+      "en": "Objects speak to us through their form.",
+      "cn": "物体通过其形式与我们对话。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "design",
+        "form",
+        "communication"
+      ]
+    },
+    {
+      "id": 70,
+      "person": "Tim Cook",
+      "en": "We think of the environment as a product.",
+      "cn": "我们把环境当作一个产品来思考。",
+      "source": "Apple Event",
+      "time": "2020",
+      "tags": [
+        "environment",
+        "sustainability",
+        "design"
+      ]
+    },
+    {
+      "id": 71,
+      "person": "Steve Jobs",
+      "en": "We started out to get a computer in the hands of everyday people.",
+      "cn": "我们开始时是想让 everyday people 手里都有一台电脑。",
+      "source": "Interview",
+      "time": "1996",
+      "tags": [
+        "vision",
+        "mission",
+        "accessibility"
+      ]
+    },
+    {
+      "id": 72,
+      "person": "Steve Wozniak",
+      "en": "Engineering is an art form when done with passion.",
+      "cn": "当带着热情去做时，工程是一种艺术形式。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "engineering",
+        "art",
+        "passion"
+      ]
+    },
+    {
+      "id": 73,
+      "person": "Steve Wozniak",
+      "en": "Simplicity in engineering is the hardest thing to achieve.",
+      "cn": "工程中的简约是最难实现的事情。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "simplicity",
+        "engineering",
+        "challenge"
+      ]
+    },
+    {
+      "id": 74,
+      "person": "Ron Johnson",
+      "en": "Great retail starts with empathy.",
+      "cn": "伟大的零售始于同理心。",
+      "source": "Interview",
+      "time": "2010",
+      "tags": [
+        "retail",
+        "empathy",
+        "service"
+      ]
+    },
+    {
+      "id": 75,
+      "person": "Steve Jobs",
+      "en": "You have to pick carefully.",
+      "cn": "你必须仔细挑选。",
+      "source": "Apple Event",
+      "time": "2013",
+      "tags": [
+        "focus",
+        "decision",
+        "priority"
+      ]
+    },
+    {
+      "id": 76,
+      "person": "Steve Wozniak",
+      "en": "Follow your curiosity wherever it leads.",
+      "cn": "追随你的好奇心，无论它带你去哪里。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "curiosity",
+        "exploration",
+        "life"
+      ]
+    },
+    {
+      "id": 77,
+      "person": "Steve Wozniak",
+      "en": "The world needs inventors. Great inventors change everything.",
+      "cn": "世界需要发明家，伟大的发明家改变一切。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "invention",
+        "impact",
+        "creativity"
+      ]
+    },
+    {
+      "id": 78,
+      "person": "Steve Jobs",
+      "en": "We made the buttons on the screen look so good you'll want to lick them.",
+      "cn": "我们让屏幕上的按钮看起来如此好看，以至于你想舔它们。",
+      "source": "Interview",
+      "time": "2003",
+      "tags": [
+        "design",
+        "craft",
+        "detail"
+      ]
+    },
+    {
+      "id": 79,
+      "person": "Ron Johnson",
+      "en": "Innovation in retail means reimagining the entire experience.",
+      "cn": "零售创新意味着重新构想整个体验。",
+      "source": "Interview",
+      "time": "2009",
+      "tags": [
+        "retail",
+        "innovation",
+        "experience"
+      ]
+    },
+    {
+      "id": 80,
+      "person": "Steve Jobs",
+      "en": "We don't settle for anything less than excellence.",
+      "cn": "我们不接受任何低于卓越的东西。",
+      "source": "Apple Event",
+      "time": "2010",
+      "tags": [
+        "excellence",
+        "standard",
+        "quality"
+      ]
+    },
+    {
+      "id": 81,
+      "person": "Tim Cook",
+      "en": "We want to leave the world better than we found it.",
+      "cn": "我们希望离开世界时比我们发现它时更好。",
+      "source": "Apple Event",
+      "time": "2018",
+      "tags": [
+        "responsibility",
+        "purpose",
+        "sustainability"
+      ]
+    },
+    {
+      "id": 82,
+      "person": "Tim Cook",
+      "en": "AR will change everything.",
+      "cn": "AR将改变一切。",
+      "source": "Apple Event",
+      "time": "2017",
+      "tags": [
+        "technology",
+        "innovation",
+        "future"
+      ]
+    },
+    {
+      "id": 83,
+      "person": "Tim Cook",
+      "en": "We believe in the power of education to change lives.",
+      "cn": "我们相信教育改变生活的力量。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "education",
+        "impact",
+        "values"
+      ]
+    },
+    {
+      "id": 84,
+      "person": "Jony Ive",
+      "en": "True simplicity is derived from so much more than just the absence of clutter.",
+      "cn": "真正的简约不仅仅是去除杂乱。",
+      "source": "Apple Event",
+      "time": "2013",
+      "tags": [
+        "simplicity",
+        "design",
+        "excellence"
+      ]
+    },
+    {
+      "id": 85,
+      "person": "Steve Wozniak",
+      "en": "The best technology is the one that disappears into the background.",
+      "cn": "最好的技术是消失在背景中的技术。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "technology",
+        "simplicity",
+        "design"
+      ]
+    },
+    {
+      "id": 86,
+      "person": "Jony Ive",
+      "en": "I think care is a synonym for love.",
+      "cn": "我认为关怀是爱的同义词。",
+      "source": "Interview",
+      "time": "2017",
+      "tags": [
+        "care",
+        "love",
+        "craft"
+      ]
+    },
+    {
+      "id": 87,
+      "person": "Ron Johnson",
+      "en": "The Apple Store is a place to gather, not just to shop.",
+      "cn": "Apple Store 是一个聚会的地方，不仅仅是购物的地方。",
+      "source": "Interview",
+      "time": "2007",
+      "tags": [
+        "retail",
+        "community",
+        "design"
+      ]
+    },
+    {
+      "id": 88,
+      "person": "Steve Jobs",
+      "en": "Innovation distinguishes between a leader and a follower.",
+      "cn": "创新是领导者和追随者的区别。",
+      "source": "Apple Event",
+      "time": "2007",
+      "tags": [
+        "innovation",
+        "leadership",
+        "excellence"
+      ]
+    },
+    {
+      "id": 89,
+      "person": "Jony Ive",
+      "en": "We're not designing for ourselves. We're designing for people.",
+      "cn": "我们不是为自己设计，我们为人们设计。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "design",
+        "people",
+        "empathy"
+      ]
+    },
+    {
+      "id": 90,
+      "person": "Phil Schiller",
+      "en": "The experience is the product.",
+      "cn": "体验就是产品。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "experience",
+        "product",
+        "design"
+      ]
+    },
+    {
+      "id": 91,
+      "person": "Steve Wozniak",
+      "en": "The best teams are built on trust and shared passion.",
+      "cn": "最好的团队建立在信任和共同热情的基础上。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "teamwork",
+        "trust",
+        "passion"
+      ]
+    },
+    {
+      "id": 92,
+      "person": "Steve Wozniak",
+      "en": "Don't be afraid to start over. It's a chance to build something better.",
+      "cn": "不要害怕重新开始，这是建造更好东西的机会。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "courage",
+        "freshstart",
+        "growth"
+      ]
+    },
+    {
+      "id": 93,
+      "person": "Steve Wozniak",
+      "en": "Technology should be a tool for human expression.",
+      "cn": "技术应该是人类表达的工具。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "technology",
+        "expression",
+        "creativity"
+      ]
+    },
+    {
+      "id": 94,
+      "person": "Steve Wozniak",
+      "en": "I designed the Apple I because I wanted a computer for myself.",
+      "cn": "我设计Apple I是因为我想要一台自己的电脑。",
+      "source": "Interview",
+      "time": "2010",
+      "tags": [
+        "product",
+        "motivation",
+        "creation"
+      ]
+    },
+    {
+      "id": 95,
+      "person": "Tim Cook",
+      "en": "We don't want to just make products. We want to make a difference.",
+      "cn": "我们不只是想制造产品，我们想产生影响。",
+      "source": "Apple Event",
+      "time": "2018",
+      "tags": [
+        "purpose",
+        "impact",
+        "product"
+      ]
+    },
+    {
+      "id": 96,
+      "person": "Tony Fadell",
+      "en": "Failure is a tool for learning.",
+      "cn": "失败是学习的工具。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "failure",
+        "learning",
+        "growth"
+      ]
+    },
+    {
+      "id": 97,
+      "person": "Steve Wozniak",
+      "en": "The personal computer was a revolution that changed everything.",
+      "cn": "个人电脑是一场改变一切的革命。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "computers",
+        "revolution",
+        "history"
+      ]
+    },
+    {
+      "id": 98,
+      "person": "Tony Fadell",
+      "en": "The best ideas come from solving your own problems.",
+      "cn": "最好的想法来自解决你自己的问题。",
+      "source": "TED Talk",
+      "time": "2015",
+      "tags": [
+        "innovation",
+        "problems",
+        "creativity"
+      ]
+    },
+    {
+      "id": 99,
+      "person": "Tim Cook",
+      "en": "You can only do so many things great.",
+      "cn": "你只能把有限的事情做到伟大。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "focus",
+        "excellence",
+        "priority"
+      ]
+    },
+    {
+      "id": 100,
+      "person": "Steve Jobs",
+      "en": "You can't connect the dots looking forward; you can only connect them looking backwards.",
+      "cn": "你无法向前连接点，你只能向后连接它们。",
+      "source": "Stanford Commencement",
+      "time": "2005",
+      "tags": [
+        "life",
+        "wisdom",
+        "perspective"
+      ]
+    },
+    {
+      "id": 101,
+      "person": "Jony Ive",
+      "en": "Design should not dominate things, should not make people aware of it.",
+      "cn": "设计不应该主导事物，不应该让人意识到它。",
+      "source": "Interview",
+      "time": "2012",
+      "tags": [
+        "design",
+        "invisible",
+        "philosophy"
+      ]
+    },
+    {
+      "id": 102,
+      "person": "Steve Jobs",
+      "en": "I think the things you regret most in life are the things you didn't do.",
+      "cn": "我认为你生命中最后悔的事情是你没有做的事。",
+      "source": "Interview",
+      "time": "1994",
+      "tags": [
+        "life",
+        "regret",
+        "action"
+      ]
+    },
+    {
+      "id": 103,
+      "person": "Phil Schiller",
+      "en": "We don't just want to make great products. We want to make products that change people's lives.",
+      "cn": "我们不只是想制造好产品，我们想制造改变人们生活的产品。",
+      "source": "Keynote",
+      "time": "2015",
+      "tags": [
+        "product",
+        "impact",
+        "purpose"
+      ]
+    },
+    {
+      "id": 104,
+      "person": "Steve Jobs",
+      "en": "Life is about creating and living experiences that are worth sharing.",
+      "cn": "生活是关于创造和分享值得分享的体验。",
+      "source": "Interview",
+      "time": "2010",
+      "tags": [
+        "life",
+        "experience",
+        "sharing"
+      ]
+    },
+    {
+      "id": 105,
+      "person": "Dan Riccio",
+      "en": "Hardware and software are inseparable.",
+      "cn": "硬件和软件是不可分割的。",
+      "source": "Apple Event",
+      "time": "2020",
+      "tags": [
+        "hardware",
+        "software",
+        "integration"
+      ]
+    },
+    {
+      "id": 106,
+      "person": "Steve Wozniak",
+      "en": "The most important thing in engineering is attention to detail.",
+      "cn": "工程中最重要的东西是对细节的关注。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "detail",
+        "engineering",
+        "craft"
+      ]
+    },
+    {
+      "id": 107,
+      "person": "Tim Cook",
+      "en": "The side effect of technology is that it can change the world in ways you didn't anticipate.",
+      "cn": "技术的副作用是它可能以你无法预料的方式改变世界。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "technology",
+        "impact",
+        "unintended"
+      ]
+    },
+    {
+      "id": 108,
+      "person": "Jony Ive",
+      "en": "We're fanatical about the details.",
+      "cn": "我们对细节很狂热。",
+      "source": "Apple Event",
+      "time": "2015",
+      "tags": [
+        "detail",
+        "craft",
+        "obsession"
+      ]
+    },
+    {
+      "id": 109,
+      "person": "Steve Jobs",
+      "en": "Have the courage to follow your heart and intuition.",
+      "cn": "要有勇气追随你的内心和直觉。",
+      "source": "Stanford Commencement",
+      "time": "2005",
+      "tags": [
+        "courage",
+        "intuition",
+        "heart"
+      ]
+    },
+    {
+      "id": 110,
+      "person": "Steve Wozniak",
+      "en": "Computers are the most incredible tools because they can do anything we tell them to.",
+      "cn": "电脑是最不可思议的工具，因为它们可以做我们告诉它们的任何事情。",
+      "source": "Interview",
+      "time": "2011",
+      "tags": [
+        "computers",
+        "tools",
+        "potential"
+      ]
+    },
+    {
+      "id": 111,
+      "person": "Steve Jobs",
+      "en": "We're not trying to be the biggest. We're trying to be the best.",
+      "cn": "我们不是试图成为最大的，我们试图成为最好的。",
+      "source": "Apple Event",
+      "time": "2001",
+      "tags": [
+        "excellence",
+        "focus",
+        "quality"
+      ]
+    },
+    {
+      "id": 112,
+      "person": "Phil Schiller",
+      "en": "The best products are born from the intersection of technology and liberal arts.",
+      "cn": "最好的产品诞生于技术与人文艺术的交汇处。",
+      "source": "Apple Event",
+      "time": "2011",
+      "tags": [
+        "product",
+        "technology",
+        "design"
+      ]
+    },
+    {
+      "id": 113,
+      "person": "Phil Schiller",
+      "en": "Innovation requires courage.",
+      "cn": "创新需要勇气。",
+      "source": "Apple Event",
+      "time": "2012",
+      "tags": [
+        "innovation",
+        "courage",
+        "leadership"
+      ]
+    },
+    {
+      "id": 114,
+      "person": "Tim Cook",
+      "en": "Simplicity is the ultimate sophistication in technology.",
+      "cn": "简约是技术的终极 sophistication。",
+      "source": "Apple Event",
+      "time": "2015",
+      "tags": [
+        "simplicity",
+        "design",
+        "technology"
+      ]
+    },
+    {
+      "id": 115,
+      "person": "Jony Ive",
+      "en": "The most important thing is that the product works beautifully.",
+      "cn": "最重要的是产品要运作得漂亮。",
+      "source": "Apple Event",
+      "time": "2016",
+      "tags": [
+        "product",
+        "function",
+        "beauty"
+      ]
+    },
+    {
+      "id": 116,
+      "person": "Tim Cook",
+      "en": "I don't think big is bad. I just don't think big is good if it comes at the expense of the customer experience.",
+      "cn": "我不认为大是坏事。但如果以牺牲客户体验为代价，大就不是好事。",
+      "source": "Fortune",
+      "time": "2015",
+      "tags": [
+        "customer",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": 117,
+      "person": "Steve Wozniak",
+      "en": "I've always believed that sharing knowledge is the most important thing.",
+      "cn": "我一直相信分享知识是最重要的事情。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "sharing",
+        "knowledge",
+        "education"
+      ]
+    },
+    {
+      "id": 118,
+      "person": "Tim Cook",
+      "en": "The best companies are those that make a dent in the universe.",
+      "cn": "最好的公司是那些在宇宙中留下印记的公司。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "impact",
+        "purpose",
+        "excellence"
+      ]
+    },
+    {
+      "id": 119,
+      "person": "Steve Wozniak",
+      "en": "Never lose your sense of wonder.",
+      "cn": "永远不要失去你的惊奇感。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "wonder",
+        "curiosity",
+        "life"
+      ]
+    },
+    {
+      "id": 120,
+      "person": "Steve Jobs",
+      "en": "My favorite things in life don't cost any money.",
+      "cn": "我生命中最喜欢的东西不花任何钱。",
+      "source": "Interview",
+      "time": "1999",
+      "tags": [
+        "life",
+        "values",
+        "simplicity"
+      ]
+    },
+    {
+      "id": 121,
+      "person": "Steve Wozniak",
+      "en": "The Apple II was the machine that changed everything.",
+      "cn": "Apple II是改变一切的机器。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "history",
+        "product",
+        "impact"
+      ]
+    },
+    {
+      "id": 122,
+      "person": "Tim Cook",
+      "en": "We want to surprise and delight our customers.",
+      "cn": "我们想给客户带来惊喜和快乐。",
+      "source": "Apple Event",
+      "time": "2017",
+      "tags": [
+        "customer",
+        "delight",
+        "experience"
+      ]
+    },
+    {
+      "id": 123,
+      "person": "Jony Ive",
+      "en": "The final product is the accumulation of thousands of small decisions.",
+      "cn": "最终产品是成千上万个小决定的积累。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "craft",
+        "process",
+        "detail"
+      ]
+    },
+    {
+      "id": 124,
+      "person": "Steve Jobs",
+      "en": "You have to trust in something.",
+      "cn": "你必须相信一些东西。",
+      "source": "Stanford Commencement",
+      "time": "2005",
+      "tags": [
+        "trust",
+        "faith",
+        "life"
+      ]
+    },
+    {
+      "id": 125,
+      "person": "Tim Cook",
+      "en": "The most important thing is to make a product that you believe in.",
+      "cn": "最重要的是制造你相信的产品。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "product",
+        "belief",
+        "authenticity"
+      ]
+    },
+    {
+      "id": 126,
+      "person": "Jony Ive",
+      "en": "The best ideas come from collaboration and iteration.",
+      "cn": "最好的想法来自协作和迭代。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "collaboration",
+        "iteration",
+        "design"
+      ]
+    },
+    {
+      "id": 127,
+      "person": "Steve Jobs",
+      "en": "The people who built Silicon Valley were engineers.",
+      "cn": "建造硅谷的人是工程师。",
+      "source": "Interview",
+      "time": "1995",
+      "tags": [
+        "technology",
+        "history",
+        "engineering"
+      ]
+    },
+    {
+      "id": 128,
+      "person": "Steve Jobs",
+      "en": "Innovation comes from people meeting up in the hallways or calling each other at 10:30 at night.",
+      "cn": "创新来自人们在走廊相遇或在晚上10:30互相打电话。",
+      "source": "Interview",
+      "time": "2004",
+      "tags": [
+        "innovation",
+        "collaboration",
+        "culture"
+      ]
+    },
+    {
+      "id": 129,
+      "person": "Angela Ahrendts",
+      "en": "Technology should serve humanity.",
+      "cn": "科技应该为人类服务。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "technology",
+        "humanity",
+        "ethics"
+      ]
+    },
+    {
+      "id": 130,
+      "person": "Steve Wozniak",
+      "en": "Never underestimate the power of a small group of committed people.",
+      "cn": "永远不要低估一小群忠诚的人的力量。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "teamwork",
+        "impact",
+        "community"
+      ]
+    },
+    {
+      "id": 131,
+      "person": "Tim Cook",
+      "en": "People should have control over their data.",
+      "cn": "人们应该控制自己的数据。",
+      "source": "Interview",
+      "time": "2018",
+      "tags": [
+        "privacy",
+        "data",
+        "control"
+      ]
+    },
+    {
+      "id": 132,
+      "person": "Jony Ive",
+      "en": "I love the craft of making things.",
+      "cn": "我喜欢制作东西的工艺。",
+      "source": "Interview",
+      "time": "2012",
+      "tags": [
+        "craft",
+        "love",
+        "making"
+      ]
+    },
+    {
+      "id": 133,
+      "person": "Tim Cook",
+      "en": "Innovation is not about saying yes to everything. It's about saying no to all but the most crucial features.",
+      "cn": "创新不是对所有事情说'是'，而是对除了最关键功能之外的所有事情说'不'。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "innovation",
+        "focus",
+        "simplicity"
+      ]
+    },
+    {
+      "id": 134,
+      "person": "Tony Fadell",
+      "en": "Design is about understanding people, not just aesthetics.",
+      "cn": "设计是关于理解人，而不仅仅是美学。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "design",
+        "people",
+        "understanding"
+      ]
+    },
+    {
+      "id": 135,
+      "person": "Jony Ive",
+      "en": "There's no formula for great design. It's a process of discovery.",
+      "cn": "伟大的设计没有公式，它是一个发现的过程。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "design",
+        "discovery",
+        "process"
+      ]
+    },
+    {
+      "id": 136,
+      "person": "Steve Wozniak",
+      "en": "Every problem has a solution if you think creatively enough.",
+      "cn": "如果你足够创造性地思考，每个问题都有解决方案。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "creativity",
+        "problem",
+        "solution"
+      ]
+    },
+    {
+      "id": 137,
+      "person": "Steve Jobs",
+      "en": "We're not going to be the first to this party, but we're going to be the best.",
+      "cn": "我们不会第一个参加这个聚会，但我们会成为最好的。",
+      "source": "iPhone Launch",
+      "time": "2007",
+      "tags": [
+        "excellence",
+        "timing",
+        "product"
+      ]
+    },
+    {
+      "id": 138,
+      "person": "Tim Cook",
+      "en": "We are committed to making the world a better place.",
+      "cn": "我们致力于让世界变得更美好。",
+      "source": "Apple Event",
+      "time": "2020",
+      "tags": [
+        "purpose",
+        "responsibility",
+        "ethics"
+      ]
+    },
+    {
+      "id": 139,
+      "person": "Johny Srouji",
+      "en": "Every watt of power matters.",
+      "cn": "每一瓦功率都很重要。",
+      "source": "Apple Event",
+      "time": "2021",
+      "tags": [
+        "hardware",
+        "efficiency",
+        "technology"
+      ]
+    },
+    {
+      "id": 140,
+      "person": "Steve Jobs",
+      "en": "What is Apple, after all? Apple is about people who think 'outside the box.'",
+      "cn": "苹果到底是什么？苹果是关于那些'跳出框框思考'的人。",
+      "source": "Interview",
+      "time": "2003",
+      "tags": [
+        "culture",
+        "thinking",
+        "identity"
+      ]
+    },
+    {
+      "id": 141,
+      "person": "Steve Wozniak",
+      "en": "There's no substitute for hard work and passion.",
+      "cn": "没有什么可以替代努力工作和热情。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "hardwork",
+        "passion",
+        "success"
+      ]
+    },
+    {
+      "id": 142,
+      "person": "Craig Federighi",
+      "en": "Privacy is built in, not bolted on.",
+      "cn": "隐私是内置的，不是附加的。",
+      "source": "WWDC",
+      "time": "2020",
+      "tags": [
+        "privacy",
+        "security",
+        "design"
+      ]
+    },
+    {
+      "id": 143,
+      "person": "Johny Srouji",
+      "en": "Hardware and software integration is what makes Apple special.",
+      "cn": "硬件和软件的整合让苹果与众不同。",
+      "source": "Interview",
+      "time": "2018",
+      "tags": [
+        "hardware",
+        "software",
+        "integration"
+      ]
+    },
+    {
+      "id": 144,
+      "person": "Jony Ive",
+      "en": "There's a point where you have to step back and let the product speak for itself.",
+      "cn": "到了某个时刻，你必须退后一步，让产品自己说话。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "product",
+        "design",
+        "humility"
+      ]
+    },
+    {
+      "id": 145,
+      "person": "Jony Ive",
+      "en": "There's a humility required in great design.",
+      "cn": "伟大的设计需要谦逊。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "humility",
+        "design",
+        "craft"
+      ]
+    },
+    {
+      "id": 146,
+      "person": "Tim Cook",
+      "en": "The most important thing is to make sure the products we make enrich people's lives.",
+      "cn": "最重要的是确保我们制造的产品能丰富人们的生活。",
+      "source": "Bloomberg",
+      "time": "2017",
+      "tags": [
+        "product",
+        "customer",
+        "purpose"
+      ]
+    },
+    {
+      "id": 147,
+      "person": "Steve Jobs",
+      "en": "The cure for Apple is not cost-cutting. The cure for Apple is to innovate its way out of its current predicament.",
+      "cn": "苹果的出路不是削减成本，而是通过创新摆脱当前的困境。",
+      "source": "Apple Internal",
+      "time": "1997",
+      "tags": [
+        "innovation",
+        "leadership",
+        "strategy"
+      ]
+    },
+    {
+      "id": 148,
+      "person": "Tim Cook",
+      "en": "We believe that technology should be accessible to everyone.",
+      "cn": "我们相信技术应该让每个人都能使用。",
+      "source": "Apple Event",
+      "time": "2019",
+      "tags": [
+        "accessibility",
+        "inclusion",
+        "technology"
+      ]
+    },
+    {
+      "id": 149,
+      "person": "Jony Ive",
+      "en": "There's no learning without trying lots of ideas and failing lots of times.",
+      "cn": "不尝试大量想法和经历多次失败，就没有学习。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "learning",
+        "failure",
+        "iteration"
+      ]
+    },
+    {
+      "id": 150,
+      "person": "Tim Cook",
+      "en": "The world needs more people who care deeply about things.",
+      "cn": "世界需要更多对事物深切关怀的人。",
+      "source": "Interview",
+      "time": "2017",
+      "tags": [
+        "care",
+        "purpose",
+        "humanity"
+      ]
+    },
+    {
+      "id": 151,
+      "person": "Steve Jobs",
+      "en": "Don't let the noise of others' opinions drown out your own inner voice.",
+      "cn": "不要让别人的意见淹没了你内心的声音。",
+      "source": "Stanford Commencement",
+      "time": "2005",
+      "tags": [
+        "inspiration",
+        "voice",
+        "courage"
+      ]
+    },
+    {
+      "id": 152,
+      "person": "Jony Ive",
+      "en": "The best ideas start as conversations.",
+      "cn": "最好的想法始于对话。",
+      "source": "Interview",
+      "time": "2012",
+      "tags": [
+        "collaboration",
+        "creativity",
+        "innovation"
+      ]
+    },
+    {
+      "id": 153,
+      "person": "Jony Ive",
+      "en": "Great design is solving problems with elegance.",
+      "cn": "伟大的设计是用优雅来解决问题。",
+      "source": "Interview",
+      "time": "2011",
+      "tags": [
+        "design",
+        "problem",
+        "elegance"
+      ]
+    },
+    {
+      "id": 154,
+      "person": "Eddy Cue",
+      "en": "The best services feel effortless.",
+      "cn": "最好的服务让人感觉毫不费力。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "services",
+        "simplicity",
+        "design"
+      ]
+    },
+    {
+      "id": 155,
+      "person": "Steve Jobs",
+      "en": "If today were the last day of my life, would I want to do what I am about to do today?",
+      "cn": "如果今天是我生命中的最后一天，我还会想做今天即将做的事吗？",
+      "source": "Stanford Commencement",
+      "time": "2005",
+      "tags": [
+        "life",
+        "reflection",
+        "purpose"
+      ]
+    },
+    {
+      "id": 156,
+      "person": "Steve Jobs",
+      "en": "Remembering that you are going to die is the best way to avoid the trap of thinking you have something to lose.",
+      "cn": "记住你终将死去，是避免陷入'你有所失去'思维陷阱的最好方式。",
+      "source": "Stanford Commencement",
+      "time": "2005",
+      "tags": [
+        "life",
+        "courage",
+        "inspiration"
+      ]
+    },
+    {
+      "id": 157,
+      "person": "Steve Wozniak",
+      "en": "Curiosity is the most important quality for an inventor.",
+      "cn": "好奇心是发明家最重要的品质。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "curiosity",
+        "invention",
+        "quality"
+      ]
+    },
+    {
+      "id": 158,
+      "person": "Steve Wozniak",
+      "en": "Technology is a amplifier of human capability.",
+      "cn": "技术是人类能力的放大器。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "technology",
+        "capability",
+        "humanity"
+      ]
+    },
+    {
+      "id": 159,
+      "person": "Steve Jobs",
+      "en": "If you keep your eye on the profit, you're going to skimp on the product.",
+      "cn": "如果你只盯着利润，你就会在产品上偷工减料。",
+      "source": "Interview",
+      "time": "1985",
+      "tags": [
+        "product",
+        "quality",
+        "values"
+      ]
+    },
+    {
+      "id": 160,
+      "person": "Steve Wozniak",
+      "en": "Building something from nothing is the greatest feeling in the world.",
+      "cn": "从无到有地建造东西是世界上最伟大的感觉。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "creation",
+        "making",
+        "fulfillment"
+      ]
+    },
+    {
+      "id": 161,
+      "person": "Phil Schiller",
+      "en": "You can't start with the technology. You have to start with the customer experience.",
+      "cn": "你不能从技术开始，必须从客户体验开始。",
+      "source": "Apple Event",
+      "time": "2013",
+      "tags": [
+        "customer",
+        "experience",
+        "technology"
+      ]
+    },
+    {
+      "id": 162,
+      "person": "Steve Jobs",
+      "en": "Let's go invent tomorrow rather than worrying about what happened yesterday.",
+      "cn": "让我们去发明明天，而不是担心昨天发生了什么。",
+      "source": "Apple Event",
+      "time": "2006",
+      "tags": [
+        "innovation",
+        "future",
+        "forward"
+      ]
+    },
+    {
+      "id": 163,
+      "person": "Tim Cook",
+      "en": "The best way to predict the future is to invent it.",
+      "cn": "预测未来的最好方式是创造未来。",
+      "source": "Apple Event",
+      "time": "2015",
+      "tags": [
+        "future",
+        "innovation",
+        "action"
+      ]
+    },
+    {
+      "id": 164,
+      "person": "Steve Jobs",
+      "en": "I want to put a ding in the universe.",
+      "cn": "我想在宇宙中留下印记。",
+      "source": "Interview",
+      "time": "1983",
+      "tags": [
+        "inspiration",
+        "courage",
+        "ambition"
+      ]
+    },
+    {
+      "id": 165,
+      "person": "Luca Maestri",
+      "en": "Financial discipline enables innovation.",
+      "cn": "财务纪律促进创新。",
+      "source": "Apple Event",
+      "time": "2018",
+      "tags": [
+        "finance",
+        "discipline",
+        "innovation"
+      ]
+    },
+    {
+      "id": 166,
+      "person": "Craig Federighi",
+      "en": "We're not just building features. We're building experiences.",
+      "cn": "我们不仅是在构建功能，我们是在构建体验。",
+      "source": "WWDC",
+      "time": "2021",
+      "tags": [
+        "experience",
+        "software",
+        "design"
+      ]
+    },
+    {
+      "id": 167,
+      "person": "Steve Jobs",
+      "en": "There's a phrase in Buddhism: Beginner's mind. It's wonderful to have a beginner's mind.",
+      "cn": "佛教中有个词叫'初心'。拥有初心是美好的。",
+      "source": "Interview",
+      "time": "2000",
+      "tags": [
+        "mindset",
+        "learning",
+        "wisdom"
+      ]
+    },
+    {
+      "id": 168,
+      "person": "Tim Cook",
+      "en": "The future belongs to those who see possibilities before they become obvious.",
+      "cn": "未来属于那些在可能性变得明显之前就看到它们的人。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "future",
+        "vision",
+        "innovation"
+      ]
+    },
+    {
+      "id": 169,
+      "person": "Tim Cook",
+      "en": "There's no shortcut to excellence.",
+      "cn": "卓越没有捷径。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "excellence",
+        "hardwork",
+        "craft"
+      ]
+    },
+    {
+      "id": 170,
+      "person": "Steve Wozniak",
+      "en": "You can't connect the dots looking forward.",
+      "cn": "你无法向前连接点。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "life",
+        "wisdom",
+        "perspective"
+      ]
+    },
+    {
+      "id": 171,
+      "person": "Steve Wozniak",
+      "en": "The best engineers are those who love to tinker.",
+      "cn": "最好的工程师是那些喜欢 tinkering 的人。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "engineering",
+        "curiosity",
+        "passion"
+      ]
+    },
+    {
+      "id": 172,
+      "person": "Steve Jobs",
+      "en": "Think different.",
+      "cn": "不同凡想。",
+      "source": "Apple Campaign",
+      "time": "1997",
+      "tags": [
+        "innovation",
+        "creativity",
+        "courage"
+      ]
+    },
+    {
+      "id": 173,
+      "person": "Jony Ive",
+      "en": "Making something understandable is hard, but incredibly powerful.",
+      "cn": "让某事变得可理解很难，但极其强大。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "simplicity",
+        "communication",
+        "power"
+      ]
+    },
+    {
+      "id": 174,
+      "person": "Tim Cook",
+      "en": "I'm proud to be gay. I consider being gay among the greatest gifts God has given me.",
+      "cn": "我为我是同性恋而骄傲。我认为同性恋是上帝给我的最伟大的礼物之一。",
+      "source": "Bloomberg Essay",
+      "time": "2014",
+      "tags": [
+        "courage",
+        "identity",
+        "authenticity"
+      ]
+    },
+    {
+      "id": 175,
+      "person": "Tony Fadell",
+      "en": "Every product tells a story. It's our job to make it a great one.",
+      "cn": "每个产品都讲述一个故事，我们的工作是让故事精彩。",
+      "source": "Interview",
+      "time": "2012",
+      "tags": [
+        "product",
+        "storytelling",
+        "design"
+      ]
+    },
+    {
+      "id": 176,
+      "person": "Johny Srouji",
+      "en": "We build the most efficient chips in the world.",
+      "cn": "我们制造世界上最高效的芯片。",
+      "source": "Apple Event",
+      "time": "2020",
+      "tags": [
+        "technology",
+        "hardware",
+        "excellence"
+      ]
+    },
+    {
+      "id": 177,
+      "person": "Steve Wozniak",
+      "en": "I'm an engineer, not a businessman. I just wanted to build great things.",
+      "cn": "我是工程师，不是商人。我只是想建造伟大的东西。",
+      "source": "Autobiography",
+      "time": "2006",
+      "tags": [
+        "engineering",
+        "craft",
+        "identity"
+      ]
+    },
+    {
+      "id": 178,
+      "person": "Steve Jobs",
+      "en": "We have always been shameless about stealing great ideas.",
+      "cn": "我们一直无耻地窃取伟大的想法。",
+      "source": "Triumph of the Nerds",
+      "time": "1996",
+      "tags": [
+        "creativity",
+        "innovation",
+        "ideas"
+      ]
+    },
+    {
+      "id": 179,
+      "person": "Ron Johnson",
+      "en": "People don't just buy products. They buy experiences.",
+      "cn": "人们不只是购买产品，他们购买的是体验。",
+      "source": "Apple Event",
+      "time": "2001",
+      "tags": [
+        "retail",
+        "experience",
+        "customer"
+      ]
+    },
+    {
+      "id": 180,
+      "person": "Ron Johnson",
+      "en": "Retail is about human connection.",
+      "cn": "零售是关于人与人之间的联系。",
+      "source": "Interview",
+      "time": "2011",
+      "tags": [
+        "retail",
+        "human",
+        "connection"
+      ]
+    },
+    {
+      "id": 181,
+      "person": "Jony Ive",
+      "en": "We strive for a level of simplicity that requires enormous complexity to achieve.",
+      "cn": "我们追求一种需要巨大复杂性才能实现的简约水平。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "simplicity",
+        "complexity",
+        "craft"
+      ]
+    },
+    {
+      "id": 182,
+      "person": "Steve Wozniak",
+      "en": "The future belongs to those who understand technology.",
+      "cn": "未来属于那些理解技术的人。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "technology",
+        "future",
+        "understanding"
+      ]
+    },
+    {
+      "id": 183,
+      "person": "Steve Jobs",
+      "en": "We figure out what we want and then we figure out how to get it.",
+      "cn": "我们先弄清楚自己想要什么，然后想办法得到它。",
+      "source": "Interview",
+      "time": "2010",
+      "tags": [
+        "vision",
+        "execution",
+        "leadership"
+      ]
+    },
+    {
+      "id": 184,
+      "person": "Greg Joswiak",
+      "en": "It's not about features. It's about what those features enable.",
+      "cn": "重要的不是功能，而是这些功能能实现什么。",
+      "source": "Interview",
+      "time": "2019",
+      "tags": [
+        "marketing",
+        "product",
+        "messaging"
+      ]
+    },
+    {
+      "id": 185,
+      "person": "Tim Cook",
+      "en": "We always put the user at the center of everything we do.",
+      "cn": "我们总是把用户放在我们所做一切的中心。",
+      "source": "Apple Event",
+      "time": "2020",
+      "tags": [
+        "customer",
+        "ux",
+        "design"
+      ]
+    },
+    {
+      "id": 186,
+      "person": "Jony Ive",
+      "en": "People are very good at sensing how much care has gone into making something.",
+      "cn": "人们很擅长感知制作某物时投入了多少关怀。",
+      "source": "Interview",
+      "time": "2017",
+      "tags": [
+        "care",
+        "craft",
+        "perception"
+      ]
+    },
+    {
+      "id": 187,
+      "person": "Jony Ive",
+      "en": "We want our products to feel like they've always existed.",
+      "cn": "我们希望我们的产品感觉它们一直存在。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "design",
+        "timelessness",
+        "product"
+      ]
+    },
+    {
+      "id": 188,
+      "person": "Steve Wozniak",
+      "en": "The joy of discovery is what keeps me going.",
+      "cn": "发现的乐趣是我坚持下去的动力。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "discovery",
+        "joy",
+        "curiosity"
+      ]
+    },
+    {
+      "id": 189,
+      "person": "Jony Ive",
+      "en": "Design is a word that's come to mean so much. It's also about how an object works.",
+      "cn": "设计这个词意义重大，它也关乎物品的工作原理。",
+      "source": "Wired",
+      "time": "2014",
+      "tags": [
+        "design",
+        "product",
+        "philosophy"
+      ]
+    },
+    {
+      "id": 190,
+      "person": "Steve Jobs",
+      "en": "One way to remember who you are is to remember who your heroes are.",
+      "cn": "记住你是谁的一种方式是记住你的英雄是谁。",
+      "source": "BusinessWeek",
+      "time": "2004",
+      "tags": [
+        "heroes",
+        "identity",
+        "inspiration"
+      ]
+    },
+    {
+      "id": 191,
+      "person": "Tim Cook",
+      "en": "The best ideas often come from the intersection of different disciplines.",
+      "cn": "最好的想法往往来自不同学科的交叉点。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "interdisciplinary",
+        "innovation",
+        "collaboration"
+      ]
+    },
+    {
+      "id": 192,
+      "person": "Jony Ive",
+      "en": "The most important thing is how the product makes you feel.",
+      "cn": "最重要的是产品给你的感觉。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "emotion",
+        "product",
+        "design"
+      ]
+    },
+    {
+      "id": 193,
+      "person": "Steve Jobs",
+      "en": "It doesn't make sense to hire smart people and tell them what to do.",
+      "cn": "雇用聪明人却告诉他们该做什么，这没有意义。",
+      "source": "Interview",
+      "time": "2010",
+      "tags": [
+        "leadership",
+        "trust",
+        "people"
+      ]
+    },
+    {
+      "id": 194,
+      "person": "Steve Jobs",
+      "en": "The journey is the reward.",
+      "cn": "过程就是奖赏。",
+      "source": "Interview",
+      "time": "1985",
+      "tags": [
+        "life",
+        "journey",
+        "wisdom"
+      ]
+    },
+    {
+      "id": 195,
+      "person": "Jony Ive",
+      "en": "There is beauty in simplicity that is deeply rewarding.",
+      "cn": "简约之美是深具回报性的。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "simplicity",
+        "beauty",
+        "design"
+      ]
+    },
+    {
+      "id": 196,
+      "person": "Steve Wozniak",
+      "en": "Engineering is about making the impossible possible.",
+      "cn": "工程是关于让不可能成为可能。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "engineering",
+        "possibility",
+        "innovation"
+      ]
+    },
+    {
+      "id": 197,
+      "person": "Steve Jobs",
+      "en": "We're not just a tech company. We're a human company.",
+      "cn": "我们不仅仅是一家科技公司，我们是一家以人为本的公司。",
+      "source": "Interview",
+      "time": "2010",
+      "tags": [
+        "humanity",
+        "purpose",
+        "values"
+      ]
+    },
+    {
+      "id": 198,
+      "person": "Steve Jobs",
+      "en": "Design is the fundamental soul of a man-made creation.",
+      "cn": "设计是人为创造的根本灵魂。",
+      "source": "Interview",
+      "time": "2003",
+      "tags": [
+        "design",
+        "soul",
+        "craft"
+      ]
+    },
+    {
+      "id": 199,
+      "person": "Steve Wozniak",
+      "en": "Be willing to be a beginner every single morning.",
+      "cn": "愿意每天早上都做一个初学者。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "learning",
+        "humility",
+        "growth"
+      ]
+    },
+    {
+      "id": 200,
+      "person": "Tim Cook",
+      "en": "We're not interested in making the most. We're interested in making the best.",
+      "cn": "我们感兴趣的不是做最多，而是做最好。",
+      "source": "Apple Event",
+      "time": "2017",
+      "tags": [
+        "excellence",
+        "focus",
+        "quality"
+      ]
+    },
+    {
+      "id": 201,
+      "person": "Steve Wozniak",
+      "en": "The journey of creation is its own reward.",
+      "cn": "创造的旅程本身就是奖赏。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "creation",
+        "journey",
+        "reward"
+      ]
+    },
+    {
+      "id": 202,
+      "person": "Steve Jobs",
+      "en": "Details matter, it's worth waiting to get it right.",
+      "cn": "细节很重要，值得等待把事情做对。",
+      "source": "Interview",
+      "time": "2008",
+      "tags": [
+        "excellence",
+        "detail",
+        "patience"
+      ]
+    },
+    {
+      "id": 203,
+      "person": "Tim Cook",
+      "en": "Apple was founded to make the brain of the Earth.",
+      "cn": "苹果公司的成立是为了打造地球的大脑。",
+      "source": "Interview",
+      "time": "2019",
+      "tags": [
+        "innovation",
+        "vision",
+        "technology"
+      ]
+    },
+    {
+      "id": 204,
+      "person": "Tim Cook",
+      "en": "We don't want to be the biggest company in the world. We want to be the best.",
+      "cn": "我们不想成为世界上最大的公司，我们想成为最好的。",
+      "source": "Apple Event",
+      "time": "2015",
+      "tags": [
+        "excellence",
+        "focus",
+        "values"
+      ]
+    },
+    {
+      "id": 205,
+      "person": "Jony Ive",
+      "en": "We're not interested in being different for the sake of it.",
+      "cn": "我们不感兴趣为了不同而不同。",
+      "source": "Apple Event",
+      "time": "2014",
+      "tags": [
+        "design",
+        "purpose",
+        "authenticity"
+      ]
+    },
+    {
+      "id": 206,
+      "person": "Jeff Williams",
+      "en": "The Apple Watch is the most personal device we've ever made.",
+      "cn": "Apple Watch 是我们制造过的最个人化的设备。",
+      "source": "Apple Event",
+      "time": "2015",
+      "tags": [
+        "product",
+        "personal",
+        "watch"
+      ]
+    },
+    {
+      "id": 207,
+      "person": "Steve Wozniak",
+      "en": "Great ideas come from solving your own problems.",
+      "cn": "伟大的想法来自解决你自己的问题。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "ideas",
+        "problem",
+        "innovation"
+      ]
+    },
+    {
+      "id": 208,
+      "person": "Jony Ive",
+      "en": "The physical object is just the beginning of the experience.",
+      "cn": "物理对象只是体验的开始。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "experience",
+        "design",
+        "product"
+      ]
+    },
+    {
+      "id": 209,
+      "person": "Tim Cook",
+      "en": "We see privacy as a fundamental human right.",
+      "cn": "我们将隐私视为一项基本人权。",
+      "source": "CNN Interview",
+      "time": "2018",
+      "tags": [
+        "privacy",
+        "ethics",
+        "leadership"
+      ]
+    },
+    {
+      "id": 210,
+      "person": "Steve Jobs",
+      "en": "The system is that there is no system.",
+      "cn": "系统就是没有系统。",
+      "source": "BusinessWeek",
+      "time": "2004",
+      "tags": [
+        "culture",
+        "process",
+        "thinking"
+      ]
+    },
+    {
+      "id": 211,
+      "person": "Steve Wozniak",
+      "en": "I believe in the power of engineering to solve real problems.",
+      "cn": "我相信工程解决实际问题的力量。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "engineering",
+        "problem",
+        "impact"
+      ]
+    },
+    {
+      "id": 212,
+      "person": "Tim Cook",
+      "en": "I think the smartphone is still in the early innings.",
+      "cn": "我认为智能手机仍处于早期阶段。",
+      "source": "Interview",
+      "time": "2017",
+      "tags": [
+        "technology",
+        "future",
+        "vision"
+      ]
+    },
+    {
+      "id": 213,
+      "person": "Steve Jobs",
+      "en": "I don't care about being right. I care about success and doing the right thing.",
+      "cn": "我不在乎谁对谁错，我在乎成功和做正确的事。",
+      "source": "Interview",
+      "time": "2010",
+      "tags": [
+        "success",
+        "pragmatism",
+        "leadership"
+      ]
+    },
+    {
+      "id": 214,
+      "person": "Steve Jobs",
+      "en": "The products suck! There's no sex in them anymore!",
+      "cn": "这些产品糟透了！它们不再有吸引力了！",
+      "source": "Apple Internal",
+      "time": "1997",
+      "tags": [
+        "passion",
+        "product",
+        "vision"
+      ]
+    },
+    {
+      "id": 215,
+      "person": "Jony Ive",
+      "en": "Every material has a voice. Our job is to listen.",
+      "cn": "每种材料都有声音，我们的工作就是倾听。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "materials",
+        "design",
+        "listening"
+      ]
+    },
+    {
+      "id": 216,
+      "person": "Steve Wozniak",
+      "en": "We need to teach our kids to be creators, not just consumers.",
+      "cn": "我们需要教我们的孩子成为创造者，而不仅仅是消费者。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "education",
+        "creation",
+        "future"
+      ]
+    },
+    {
+      "id": 217,
+      "person": "Jony Ive",
+      "en": "The best products are made by people who care deeply.",
+      "cn": "最好的产品是由深切关怀的人制造的。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "care",
+        "product",
+        "passion"
+      ]
+    },
+    {
+      "id": 218,
+      "person": "Steve Wozniak",
+      "en": "I've always been more interested in making than in managing.",
+      "cn": "我一直对制造比对管理更感兴趣。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "making",
+        "craft",
+        "preference"
+      ]
+    },
+    {
+      "id": 219,
+      "person": "Steve Jobs",
+      "en": "I'm sorry, but I don't want to be an emperor.",
+      "cn": "对不起，但我不想成为皇帝。",
+      "source": "Interview",
+      "time": "1983",
+      "tags": [
+        "humility",
+        "power",
+        "values"
+      ]
+    },
+    {
+      "id": 220,
+      "person": "Jony Ive",
+      "en": "We start with the user experience and work backwards to the technology.",
+      "cn": "我们从用户体验开始，然后 backwards 到技术。",
+      "source": "Interview",
+      "time": "2012",
+      "tags": [
+        "ux",
+        "design",
+        "process"
+      ]
+    },
+    {
+      "id": 221,
+      "person": "Steve Jobs",
+      "en": "Everything around you that you call life was made up by people no smarter than you.",
+      "cn": "你周围所谓的生活都是并不比你聪明的人创造的。",
+      "source": "Interview",
+      "time": "1994",
+      "tags": [
+        "empowerment",
+        "life",
+        "agency"
+      ]
+    },
+    {
+      "id": 222,
+      "person": "Tim Cook",
+      "en": "We want to build things that last.",
+      "cn": "我们想建造能持久的东西。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "quality",
+        "durability",
+        "craft"
+      ]
+    },
+    {
+      "id": 223,
+      "person": "Steve Jobs",
+      "en": "I decided to drop out and trust that it would all work out okay.",
+      "cn": "我决定退学，并相信一切都会好起来。",
+      "source": "Stanford Commencement",
+      "time": "2005",
+      "tags": [
+        "courage",
+        "risk",
+        "decision"
+      ]
+    },
+    {
+      "id": 224,
+      "person": "Steve Wozniak",
+      "en": "Every great achievement starts with a simple idea.",
+      "cn": "每一个伟大的成就都始于一个简单的想法。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "ideas",
+        "achievement",
+        "simplicity"
+      ]
+    },
+    {
+      "id": 225,
+      "person": "Tim Cook",
+      "en": "Great things happen when talented people come together.",
+      "cn": "当才华横溢的人聚在一起时，伟大的事情就会发生。",
+      "source": "Interview",
+      "time": "2017",
+      "tags": [
+        "teamwork",
+        "talent",
+        "collaboration"
+      ]
+    },
+    {
+      "id": 226,
+      "person": "Steve Jobs",
+      "en": "Do you want to spend the rest of your life selling sugared water, or do you want a chance to change the world?",
+      "cn": "你想把余生都花在卖糖水上，还是想有机会改变世界？",
+      "source": "Recruiting John Sculley",
+      "time": "1983",
+      "tags": [
+        "purpose",
+        "change",
+        "ambition"
+      ]
+    },
+    {
+      "id": 227,
+      "person": "Steve Wozniak",
+      "en": "Creativity comes from having a mind that wanders.",
+      "cn": "创造力来自一个漫游的心灵。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "creativity",
+        "mind",
+        "imagination"
+      ]
+    },
+    {
+      "id": 228,
+      "person": "Steve Wozniak",
+      "en": "There's nothing more satisfying than building something with your own hands.",
+      "cn": "没有什么比用自己的双手建造东西更令人满意的了。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "making",
+        "craft",
+        "satisfaction"
+      ]
+    },
+    {
+      "id": 229,
+      "person": "Steve Wozniak",
+      "en": "Being different is what makes us special.",
+      "cn": "与众不同使我们特别。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "individuality",
+        "identity",
+        "courage"
+      ]
+    },
+    {
+      "id": 230,
+      "person": "Steve Jobs",
+      "en": "Sometimes life hits you in the head with a brick. Don't lose faith.",
+      "cn": "有时生活会用砖头打你的头，不要失去信心。",
+      "source": "Stanford Commencement",
+      "time": "2005",
+      "tags": [
+        "inspiration",
+        "life",
+        "perseverance"
+      ]
+    },
+    {
+      "id": 231,
+      "person": "Steve Wozniak",
+      "en": "If you love what you do and are willing to do what it takes, it's within your reach.",
+      "cn": "如果你热爱你所做的事并愿意为之付出，它就触手可及。",
+      "source": "Interview",
+      "time": "2007",
+      "tags": [
+        "passion",
+        "work",
+        "success"
+      ]
+    },
+    {
+      "id": 232,
+      "person": "Steve Wozniak",
+      "en": "Artists work best alone.",
+      "cn": "艺术家最适合独自工作。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "creativity",
+        "work",
+        "independence"
+      ]
+    },
+    {
+      "id": 233,
+      "person": "Angela Ahrendts",
+      "en": "We must always remember: technology is just a tool.",
+      "cn": "我们必须永远记住：技术只是工具。",
+      "source": "Interview",
+      "time": "2017",
+      "tags": [
+        "technology",
+        "humanity",
+        "purpose"
+      ]
+    },
+    {
+      "id": 234,
+      "person": "Steve Jobs",
+      "en": "We want to reinvent the phone.",
+      "cn": "我们想重新发明手机。",
+      "source": "iPhone Launch",
+      "time": "2007",
+      "tags": [
+        "innovation",
+        "vision",
+        "product"
+      ]
+    },
+    {
+      "id": 235,
+      "person": "Steve Jobs",
+      "en": "The only way to do great work is to love what you do.",
+      "cn": "做伟大的工作的唯一方法就是热爱你所做的事。",
+      "source": "Stanford Commencement",
+      "time": "2005",
+      "tags": [
+        "passion",
+        "work",
+        "inspiration"
+      ]
+    },
+    {
+      "id": 236,
+      "person": "Jony Ive",
+      "en": "The design process is about understanding, not decorating.",
+      "cn": "设计过程是关于理解，而不是装饰。",
+      "source": "Interview",
+      "time": "2012",
+      "tags": [
+        "design",
+        "process",
+        "understanding"
+      ]
+    },
+    {
+      "id": 237,
+      "person": "Jony Ive",
+      "en": "Design is not just a veneer. It's not just the surface.",
+      "cn": "设计不仅仅是一层饰面，不仅仅是表面。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "design",
+        "depth",
+        "substance"
+      ]
+    },
+    {
+      "id": 238,
+      "person": "Jony Ive",
+      "en": "We're not interested in trends. We're interested in enduring value.",
+      "cn": "我们不感兴趣趋势，我们感兴趣持久的价值。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "timelessness",
+        "value",
+        "design"
+      ]
+    },
+    {
+      "id": 239,
+      "person": "Steve Jobs",
+      "en": "Innovation is saying no to a thousand things.",
+      "cn": "创新就是对一千件事说不。",
+      "source": "Apple Event",
+      "time": "2013",
+      "tags": [
+        "focus",
+        "innovation",
+        "simplicity"
+      ]
+    },
+    {
+      "id": 240,
+      "person": "Jony Ive",
+      "en": "The computer is the most remarkable tool we've ever come up with.",
+      "cn": "电脑是我们发明的最了不起的工具。",
+      "source": "Interview",
+      "time": "2012",
+      "tags": [
+        "technology",
+        "tools",
+        "impact"
+      ]
+    },
+    {
+      "id": 241,
+      "person": "Steve Jobs",
+      "en": "Design is not just what it looks like and feels like. Design is how it works.",
+      "cn": "设计不仅仅是外观和感觉，设计是其工作原理。",
+      "source": "The New York Times",
+      "time": "2003",
+      "tags": [
+        "design",
+        "product",
+        "innovation"
+      ]
+    },
+    {
+      "id": 242,
+      "person": "Steve Wozniak",
+      "en": "I never did it for the money. I did it because I loved it.",
+      "cn": "我从来不为钱而做，我做是因为热爱。",
+      "source": "Interview",
+      "time": "2012",
+      "tags": [
+        "passion",
+        "motivation",
+        "values"
+      ]
+    },
+    {
+      "id": 243,
+      "person": "Steve Wozniak",
+      "en": "The best solutions are often the simplest ones.",
+      "cn": "最好的解决方案往往是最简单的。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "simplicity",
+        "solution",
+        "engineering"
+      ]
+    },
+    {
+      "id": 244,
+      "person": "Steve Jobs",
+      "en": "When you grow up you tend to get told the world is the way it is.",
+      "cn": "长大后，人们往往被告知世界就是这样。",
+      "source": "Stanford Commencement",
+      "time": "2005",
+      "tags": [
+        "life",
+        "perspective",
+        "change"
+      ]
+    },
+    {
+      "id": 245,
+      "person": "Jony Ive",
+      "en": "Design is a word that's come to mean so much.",
+      "cn": "设计这个词已经意味着很多东西。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "design",
+        "meaning",
+        "evolution"
+      ]
+    },
+    {
+      "id": 246,
+      "person": "Tony Fadell",
+      "en": "Innovation is not about having all the answers. It's about asking the right questions.",
+      "cn": "创新不是拥有所有答案，而是提出正确的问题。",
+      "source": "TED Talk",
+      "time": "2015",
+      "tags": [
+        "innovation",
+        "questions",
+        "creativity"
+      ]
+    },
+    {
+      "id": 247,
+      "person": "Steve Jobs",
+      "en": "Be a yardstick of quality.",
+      "cn": "成为质量的准绳。",
+      "source": "Interview",
+      "time": "1987",
+      "tags": [
+        "excellence",
+        "quality",
+        "leadership"
+      ]
+    },
+    {
+      "id": 248,
+      "person": "Steve Wozniak",
+      "en": "Never stop learning. Never stop being curious.",
+      "cn": "永远不要停止学习，永远不要停止好奇。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "learning",
+        "curiosity",
+        "growth"
+      ]
+    },
+    {
+      "id": 249,
+      "person": "Steve Wozniak",
+      "en": "If you love what you do and are willing to do what it really takes, it's within your reach.",
+      "cn": "如果你热爱你所做的事并愿意为之付出，它就触手可及。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "passion",
+        "work",
+        "success"
+      ]
+    },
+    {
+      "id": 250,
+      "person": "Tim Cook",
+      "en": "We believe in the power of human potential.",
+      "cn": "我们相信人类潜能的力量。",
+      "source": "Interview",
+      "time": "2017",
+      "tags": [
+        "humanity",
+        "potential",
+        "belief"
+      ]
+    },
+    {
+      "id": 251,
+      "person": "Steve Wozniak",
+      "en": "The spirit of creation is what drives humanity forward.",
+      "cn": "创造的精神是推动人类前进的力量。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "creation",
+        "progress",
+        "humanity"
+      ]
+    },
+    {
+      "id": 252,
+      "person": "Steve Jobs",
+      "en": "I don't really care about being right, I just care about success.",
+      "cn": "我不在乎谁对谁错，我只在乎成功。",
+      "source": "Interview",
+      "time": "2010",
+      "tags": [
+        "success",
+        "results",
+        "leadership"
+      ]
+    },
+    {
+      "id": 253,
+      "person": "Craig Federighi",
+      "en": "Good software feels inevitable.",
+      "cn": "好的软件让人感觉是不可避免的。",
+      "source": "WWDC",
+      "time": "2017",
+      "tags": [
+        "software",
+        "design",
+        "simplicity"
+      ]
+    },
+    {
+      "id": 254,
+      "person": "Steve Wozniak",
+      "en": "Engineering is about building things that work, not about being perfect.",
+      "cn": "工程是关于建造能工作的东西，而不是追求完美。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "engineering",
+        "product",
+        "pragmatism"
+      ]
+    },
+    {
+      "id": 255,
+      "person": "Jony Ive",
+      "en": "I think it's very easy to be different, but very difficult to be better.",
+      "cn": "我认为与众不同很容易，但做得更好很困难。",
+      "source": "Interview",
+      "time": "2012",
+      "tags": [
+        "excellence",
+        "design",
+        "challenge"
+      ]
+    },
+    {
+      "id": 256,
+      "person": "Jony Ive",
+      "en": "Every detail is important because the user notices everything.",
+      "cn": "每个细节都很重要，因为用户会注意到一切。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "detail",
+        "ux",
+        "perception"
+      ]
+    },
+    {
+      "id": 257,
+      "person": "Jony Ive",
+      "en": "Great design is about making things work beautifully together.",
+      "cn": "伟大的设计是让事物美丽地协同工作。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "design",
+        "integration",
+        "harmony"
+      ]
+    },
+    {
+      "id": 258,
+      "person": "Steve Jobs",
+      "en": "I'm as proud of many of the products we haven't done as the ones we have done.",
+      "cn": "我对我们没做的许多产品和对做过的产品一样自豪。",
+      "source": "Apple Event",
+      "time": "2013",
+      "tags": [
+        "focus",
+        "product",
+        "discipline"
+      ]
+    },
+    {
+      "id": 259,
+      "person": "Tony Fadell",
+      "en": "Great products are born from frustration with the status quo.",
+      "cn": "伟大的产品源于对现状的不满。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "product",
+        "innovation",
+        "frustration"
+      ]
+    },
+    {
+      "id": 260,
+      "person": "Tony Fadell",
+      "en": "Simplicity is the ultimate sophistication in hardware design.",
+      "cn": "简约是硬件设计的终极 sophistication。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "simplicity",
+        "hardware",
+        "design"
+      ]
+    },
+    {
+      "id": 261,
+      "person": "Tim Cook",
+      "en": "Apple is a company that values diversity and inclusion.",
+      "cn": "苹果是一家重视多元化和包容性的公司。",
+      "source": "Interview",
+      "time": "2017",
+      "tags": [
+        "diversity",
+        "inclusion",
+        "values"
+      ]
+    },
+    {
+      "id": 262,
+      "person": "Steve Jobs",
+      "en": "Technology is nothing. What's important is that you have faith in people.",
+      "cn": "技术什么都不是，重要的是你对人有信心。",
+      "source": "Interview",
+      "time": "1994",
+      "tags": [
+        "humanity",
+        "technology",
+        "values"
+      ]
+    },
+    {
+      "id": 263,
+      "person": "Steve Jobs",
+      "en": "The greatest thing is when you do put your heart and soul into something, and you do it really well.",
+      "cn": "最伟大的事情是当你全身心投入某件事，并且做得非常好。",
+      "source": "Interview",
+      "time": "2007",
+      "tags": [
+        "passion",
+        "excellence",
+        "craft"
+      ]
+    },
+    {
+      "id": 264,
+      "person": "Steve Jobs",
+      "en": "I was lucky — I found what I loved to do early in life.",
+      "cn": "我很幸运——我在生命的早期就找到了我热爱做的事。",
+      "source": "Stanford Commencement",
+      "time": "2005",
+      "tags": [
+        "passion",
+        "purpose",
+        "gratitude"
+      ]
+    },
+    {
+      "id": 265,
+      "person": "Steve Wozniak",
+      "en": "Innovation happens when people are free to explore.",
+      "cn": "当人们可以自由探索时，创新就会发生。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "innovation",
+        "freedom",
+        "exploration"
+      ]
+    },
+    {
+      "id": 266,
+      "person": "Steve Wozniak",
+      "en": "The most beautiful designs are the ones that work.",
+      "cn": "最美丽的设计是那些能工作的设计。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "design",
+        "function",
+        "beauty"
+      ]
+    },
+    {
+      "id": 267,
+      "person": "Steve Jobs",
+      "en": "Your time is limited, so don't waste it living someone else's life.",
+      "cn": "你的时间有限，所以不要浪费在过别人的生活上。",
+      "source": "Stanford Commencement",
+      "time": "2005",
+      "tags": [
+        "life",
+        "authenticity",
+        "purpose"
+      ]
+    },
+    {
+      "id": 268,
+      "person": "Tim Cook",
+      "en": "Privacy is a fundamental human right.",
+      "cn": "隐私是一项基本人权。",
+      "source": "NPR Interview",
+      "time": "2014",
+      "tags": [
+        "privacy",
+        "ethics",
+        "technology"
+      ]
+    },
+    {
+      "id": 269,
+      "person": "Phil Schiller",
+      "en": "Marketing is about values.",
+      "cn": "营销关乎价值观。",
+      "source": "Apple Event",
+      "time": "2014",
+      "tags": [
+        "marketing",
+        "values",
+        "brand"
+      ]
+    },
+    {
+      "id": 270,
+      "person": "Jony Ive",
+      "en": "Every curve, every surface, every detail matters.",
+      "cn": "每一条曲线，每一个表面，每一个细节都很重要。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "detail",
+        "craft",
+        "design"
+      ]
+    },
+    {
+      "id": 271,
+      "person": "Steve Wozniak",
+      "en": "The best things in life are the result of passion, not money.",
+      "cn": "生活中最好的东西是热情的结果，而不是金钱。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "passion",
+        "life",
+        "values"
+      ]
+    },
+    {
+      "id": 272,
+      "person": "Tim Cook",
+      "en": "If you're not making mistakes, you're not taking enough risks.",
+      "cn": "如果你不犯错，说明你承担的风险不够。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "risk",
+        "failure",
+        "growth"
+      ]
+    },
+    {
+      "id": 273,
+      "person": "Tim Cook",
+      "en": "We're not interested in being a follower. We want to be a leader.",
+      "cn": "我们不感兴趣成为追随者，我们想成为领导者。",
+      "source": "Apple Event",
+      "time": "2016",
+      "tags": [
+        "leadership",
+        "innovation",
+        "vision"
+      ]
+    },
+    {
+      "id": 274,
+      "person": "Jeff Williams",
+      "en": "Sustainability is not optional. It's a responsibility.",
+      "cn": "可持续发展不是可选的，这是一种责任。",
+      "source": "Apple Event",
+      "time": "2020",
+      "tags": [
+        "sustainability",
+        "responsibility",
+        "environment"
+      ]
+    },
+    {
+      "id": 275,
+      "person": "Craig Federighi",
+      "en": "Performance isn't a feature. It's a fundamental part of the experience.",
+      "cn": "性能不是一种功能，它是体验的基础部分。",
+      "source": "WWDC",
+      "time": "2020",
+      "tags": [
+        "performance",
+        "experience",
+        "quality"
+      ]
+    },
+    {
+      "id": 276,
+      "person": "Steve Jobs",
+      "en": "Our DNA is as a consumer company.",
+      "cn": "我们的DNA是一家消费品公司。",
+      "source": "Apple Event",
+      "time": "2010",
+      "tags": [
+        "identity",
+        "customer",
+        "focus"
+      ]
+    },
+    {
+      "id": 277,
+      "person": "Steve Wozniak",
+      "en": "The joy of engineering is solving puzzles that matter.",
+      "cn": "工程的乐趣是解决重要的谜题。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "engineering",
+        "problem",
+        "joy"
+      ]
+    },
+    {
+      "id": 278,
+      "person": "Jony Ive",
+      "en": "The joy of making something great is worth all the struggle.",
+      "cn": "制造伟大事物的乐趣值得所有的奋斗。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "joy",
+        "craft",
+        "perseverance"
+      ]
+    },
+    {
+      "id": 279,
+      "person": "Steve Wozniak",
+      "en": "Always be willing to question the status quo.",
+      "cn": "永远要愿意质疑现状。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "questioning",
+        "innovation",
+        "courage"
+      ]
+    },
+    {
+      "id": 280,
+      "person": "Steve Jobs",
+      "en": "The people who are crazy enough to think they can change the world are the ones who do.",
+      "cn": "那些疯狂到以为自己能改变世界的人，才是真正改变世界的人。",
+      "source": "Think Different Campaign",
+      "time": "1997",
+      "tags": [
+        "innovation",
+        "courage",
+        "leadership"
+      ]
+    },
+    {
+      "id": 281,
+      "person": "Tim Cook",
+      "en": "Our goal has never been to make the most. It's always been to make the best.",
+      "cn": "我们的目标从来不是做得最多，而是做到最好。",
+      "source": "Apple Event",
+      "time": "2014",
+      "tags": [
+        "excellence",
+        "product",
+        "quality"
+      ]
+    },
+    {
+      "id": 282,
+      "person": "Tim Cook",
+      "en": "We don't want people to have to choose between doing the right thing and doing the easy thing.",
+      "cn": "我们不希望人们在做好事和做容易的事之间做出选择。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "ethics",
+        "design",
+        "privacy"
+      ]
+    },
+    {
+      "id": 283,
+      "person": "Steve Jobs",
+      "en": "What we want to do is make a leapfrog product that is way smarter than any mobile device has ever been.",
+      "cn": "我们想做一个跨越式产品，比任何移动设备都更智能。",
+      "source": "iPhone Launch",
+      "time": "2007",
+      "tags": [
+        "product",
+        "innovation",
+        "vision"
+      ]
+    },
+    {
+      "id": 284,
+      "person": "Tim Cook",
+      "en": "Innovation requires both creativity and discipline.",
+      "cn": "创新需要创造力和纪律。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "innovation",
+        "creativity",
+        "discipline"
+      ]
+    },
+    {
+      "id": 285,
+      "person": "Jony Ive",
+      "en": "The best products feel like a natural extension of yourself.",
+      "cn": "最好的产品感觉像是你自己的自然延伸。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "product",
+        "design",
+        "personal"
+      ]
+    },
+    {
+      "id": 286,
+      "person": "Jony Ive",
+      "en": "There's a certain reverence you need to have for the materials.",
+      "cn": "你需要对材料有一定的敬畏。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "materials",
+        "craft",
+        "respect"
+      ]
+    },
+    {
+      "id": 287,
+      "person": "Eddy Cue",
+      "en": "Music is universal. It connects us all.",
+      "cn": "音乐是普遍的，它将我们所有人联系在一起。",
+      "source": "Apple Music Launch",
+      "time": "2015",
+      "tags": [
+        "music",
+        "connection",
+        "culture"
+      ]
+    },
+    {
+      "id": 288,
+      "person": "Tim Cook",
+      "en": "Technology should serve people, not the other way around.",
+      "cn": "技术应该为人服务，而不是相反。",
+      "source": "Interview",
+      "time": "2018",
+      "tags": [
+        "technology",
+        "humanity",
+        "ethics"
+      ]
+    },
+    {
+      "id": 289,
+      "person": "Steve Jobs",
+      "en": "Stay foolish to stay sane.",
+      "cn": "保持愚笨以保持理智。",
+      "source": "Interview",
+      "time": "2008",
+      "tags": [
+        "wisdom",
+        "humility",
+        "life"
+      ]
+    },
+    {
+      "id": 290,
+      "person": "Jony Ive",
+      "en": "Innovation at Apple means eliminating the unnecessary.",
+      "cn": "苹果的创新意味着消除不必要的东西。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "innovation",
+        "simplicity",
+        "focus"
+      ]
+    },
+    {
+      "id": 291,
+      "person": "Scott Forstall",
+      "en": "Touch is the most natural interface ever created.",
+      "cn": "触摸是有史以来最自然的界面。",
+      "source": "iPhone Launch",
+      "time": "2007",
+      "tags": [
+        "touch",
+        "interface",
+        "innovation"
+      ]
+    },
+    {
+      "id": 292,
+      "person": "Steve Jobs",
+      "en": "Simple can be harder than complex.",
+      "cn": "简单可能比复杂更难。",
+      "source": "Apple Event",
+      "time": "1998",
+      "tags": [
+        "simplicity",
+        "design",
+        "excellence"
+      ]
+    },
+    {
+      "id": 293,
+      "person": "Tim Cook",
+      "en": "The best way to serve shareholders is to serve customers.",
+      "cn": "为股东服务的最好方式是为客户服务。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "customer",
+        "business",
+        "values"
+      ]
+    },
+    {
+      "id": 294,
+      "person": "Angela Ahrendts",
+      "en": "The best technology is invisible.",
+      "cn": "最好的科技是看不见的。",
+      "source": "Apple Event",
+      "time": "2016",
+      "tags": [
+        "technology",
+        "design",
+        "simplicity"
+      ]
+    },
+    {
+      "id": 295,
+      "person": "Steve Wozniak",
+      "en": "Technology is best when it brings people together.",
+      "cn": "当技术将人们聚集在一起时，它是最好的。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "technology",
+        "connection",
+        "humanity"
+      ]
+    },
+    {
+      "id": 296,
+      "person": "Jony Ive",
+      "en": "We won't be different for different's sake. Different is easy. Better is difficult.",
+      "cn": "我们不会为了不同而不同。不同很容易，更好才困难。",
+      "source": "Apple Event",
+      "time": "2016",
+      "tags": [
+        "excellence",
+        "design",
+        "quality"
+      ]
+    },
+    {
+      "id": 297,
+      "person": "Greg Joswiak",
+      "en": "The best products sell themselves.",
+      "cn": "最好的产品自己会说话。",
+      "source": "Apple Event",
+      "time": "2018",
+      "tags": [
+        "product",
+        "marketing",
+        "quality"
+      ]
+    },
+    {
+      "id": 298,
+      "person": "Steve Wozniak",
+      "en": "Simplicity is the hallmark of great engineering.",
+      "cn": "简约是伟大工程的标志。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "simplicity",
+        "engineering",
+        "excellence"
+      ]
+    },
+    {
+      "id": 299,
+      "person": "Tim Cook",
+      "en": "We think about the long term, not the next quarter.",
+      "cn": "我们考虑的是长期，而不是下一个季度。",
+      "source": "Interview",
+      "time": "2018",
+      "tags": [
+        "strategy",
+        "longterm",
+        "vision"
+      ]
+    },
+    {
+      "id": 300,
+      "person": "Steve Jobs",
+      "en": "I'm an optimist in the sense that I believe humans are noble and honorable.",
+      "cn": "从我相信人类是高尚和正直的这个意义上说，我是乐观主义者。",
+      "source": "Interview",
+      "time": "2011",
+      "tags": [
+        "humanity",
+        "optimism",
+        "values"
+      ]
+    },
+    {
+      "id": 301,
+      "person": "Tim Cook",
+      "en": "We believe in saying no to thousands of projects so we can focus on the few that are truly important.",
+      "cn": "我们相信对数千个项目说'不'，这样我们就能专注于真正重要的少数项目。",
+      "source": "Interview",
+      "time": "2012",
+      "tags": [
+        "focus",
+        "priority",
+        "strategy"
+      ]
+    },
+    {
+      "id": 302,
+      "person": "Tim Cook",
+      "en": "You can't be a company focused on the future without caring about the environment.",
+      "cn": "如果不关心环境，你就不可能是一家面向未来的公司。",
+      "source": "Interview",
+      "time": "2019",
+      "tags": [
+        "sustainability",
+        "future",
+        "responsibility"
+      ]
+    },
+    {
+      "id": 303,
+      "person": "Jony Ive",
+      "en": "Our goal is to make products that are incredibly pure and seamless.",
+      "cn": "我们的目标是制造极其纯粹和无缝的产品。",
+      "source": "Apple Event",
+      "time": "2014",
+      "tags": [
+        "product",
+        "purity",
+        "seamless"
+      ]
+    },
+    {
+      "id": 304,
+      "person": "Jony Ive",
+      "en": "The best design comes from understanding people deeply.",
+      "cn": "最好的设计来自深刻理解人。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "design",
+        "empathy",
+        "understanding"
+      ]
+    },
+    {
+      "id": 305,
+      "person": "Tim Cook",
+      "en": "If you love what you do, you'll never work a day in your life.",
+      "cn": "如果你热爱你所做的事，你一生中就不会有一天在工作。",
+      "source": "Commencement Speech",
+      "time": "2015",
+      "tags": [
+        "passion",
+        "work",
+        "life"
+      ]
+    },
+    {
+      "id": 306,
+      "person": "Jony Ive",
+      "en": "There's a beautiful consistency in great design.",
+      "cn": "伟大的设计中有一种美丽的一致性。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "consistency",
+        "design",
+        "beauty"
+      ]
+    },
+    {
+      "id": 307,
+      "person": "Steve Wozniak",
+      "en": "Hackers are the ones who change the world.",
+      "cn": "黑客是改变世界的人。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "hacking",
+        "change",
+        "innovation"
+      ]
+    },
+    {
+      "id": 308,
+      "person": "Tony Fadell",
+      "en": "The iPod wasn't just a music player. It was a cultural phenomenon.",
+      "cn": "iPod不仅仅是一个音乐播放器，它是一种文化现象。",
+      "source": "Interview",
+      "time": "2011",
+      "tags": [
+        "product",
+        "culture",
+        "impact"
+      ]
+    },
+    {
+      "id": 309,
+      "person": "Johny Srouji",
+      "en": "The chip is the soul of the device.",
+      "cn": "芯片是设备的灵魂。",
+      "source": "Interview",
+      "time": "2020",
+      "tags": [
+        "hardware",
+        "technology",
+        "design"
+      ]
+    },
+    {
+      "id": 310,
+      "person": "Steve Jobs",
+      "en": "I would trade all of my technology for an afternoon with Socrates.",
+      "cn": "我愿意用我所有的技术换取与苏格拉底共度一个下午。",
+      "source": "Interview",
+      "time": "2001",
+      "tags": [
+        "wisdom",
+        "philosophy",
+        "knowledge"
+      ]
+    },
+    {
+      "id": 311,
+      "person": "Angela Ahrendts",
+      "en": "The future of retail is about community, not commerce.",
+      "cn": "零售的未来是关于社区，而不是商业。",
+      "source": "Apple Event",
+      "time": "2017",
+      "tags": [
+        "retail",
+        "community",
+        "future"
+      ]
+    },
+    {
+      "id": 312,
+      "person": "Craig Federighi",
+      "en": "We believe in using technology to empower people.",
+      "cn": "我们相信用技术赋予人们力量。",
+      "source": "WWDC",
+      "time": "2019",
+      "tags": [
+        "technology",
+        "empowerment",
+        "ethics"
+      ]
+    },
+    {
+      "id": 313,
+      "person": "Jony Ive",
+      "en": "The nature of having ideas is that you can't force it.",
+      "cn": "产生想法的本质是你不能强迫它。",
+      "source": "Interview",
+      "time": "2012",
+      "tags": [
+        "creativity",
+        "ideas",
+        "process"
+      ]
+    },
+    {
+      "id": 314,
+      "person": "Tim Cook",
+      "en": "We don't do things because they're easy. We do them because they're hard.",
+      "cn": "我们做事不是因为它们容易，而是因为它们困难。",
+      "source": "Apple Event",
+      "time": "2019",
+      "tags": [
+        "challenge",
+        "excellence",
+        "ambition"
+      ]
+    },
+    {
+      "id": 315,
+      "person": "Steve Jobs",
+      "en": "The doers are the major thinkers.",
+      "cn": "实干者是主要的思考者。",
+      "source": "Interview",
+      "time": "1983",
+      "tags": [
+        "action",
+        "thinking",
+        "execution"
+      ]
+    },
+    {
+      "id": 316,
+      "person": "Steve Jobs",
+      "en": "Your work is going to fill a large part of your life.",
+      "cn": "你的工作将占据你生命中很大一部分。",
+      "source": "Stanford Commencement",
+      "time": "2005",
+      "tags": [
+        "work",
+        "life",
+        "passion"
+      ]
+    },
+    {
+      "id": 317,
+      "person": "Tim Cook",
+      "en": "The customer experience is always the North Star.",
+      "cn": "客户体验永远是北极星。",
+      "source": "Apple Event",
+      "time": "2019",
+      "tags": [
+        "customer",
+        "experience",
+        "guidance"
+      ]
+    },
+    {
+      "id": 318,
+      "person": "Tim Cook",
+      "en": "We believe that we have a responsibility to make the world a better place.",
+      "cn": "我们相信我们有责任让世界变得更美好。",
+      "source": "Apple Event",
+      "time": "2020",
+      "tags": [
+        "responsibility",
+        "ethics",
+        "leadership"
+      ]
+    },
+    {
+      "id": 319,
+      "person": "Jony Ive",
+      "en": "We don't want to just make new things. We want to make better things.",
+      "cn": "我们不只是想制造新东西，我们想制造更好的东西。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "improvement",
+        "product",
+        "quality"
+      ]
+    },
+    {
+      "id": 320,
+      "person": "Phil Schiller",
+      "en": "It's not the customer's job to know what they want.",
+      "cn": "了解自己想要什么不是顾客的工作。",
+      "source": "Apple Event",
+      "time": "2010",
+      "tags": [
+        "customer",
+        "innovation",
+        "product"
+      ]
+    },
+    {
+      "id": 321,
+      "person": "Jony Ive",
+      "en": "If something is not good enough, stop doing it.",
+      "cn": "如果某事不够好，就停止做它。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "quality",
+        "focus",
+        "discipline"
+      ]
+    },
+    {
+      "id": 322,
+      "person": "Steve Jobs",
+      "en": "Your time is limited, so don't waste it living someone else's life.",
+      "cn": "你的时间有限，不要浪费在过别人的生活上。",
+      "source": "Stanford Commencement",
+      "time": "2005",
+      "tags": [
+        "life",
+        "inspiration",
+        "courage"
+      ]
+    },
+    {
+      "id": 323,
+      "person": "Steve Jobs",
+      "en": "If you don't cannibalize yourself, someone else will.",
+      "cn": "如果你不吞噬自己，别人会这么做。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "innovation",
+        "business",
+        "disruption"
+      ]
+    },
+    {
+      "id": 324,
+      "person": "Jony Ive",
+      "en": "Simplicity and complexity are not opposites. They are complements.",
+      "cn": "简约和复杂不是对立的，它们是互补的。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "simplicity",
+        "complexity",
+        "philosophy"
+      ]
+    },
+    {
+      "id": 325,
+      "person": "Steve Jobs",
+      "en": "We're not a company that puts out 50 products a year. We put out a few that change things.",
+      "cn": "我们不是一家每年推出50种产品的公司。我们推出几个能改变事物的产品。",
+      "source": "Apple Event",
+      "time": "2009",
+      "tags": [
+        "focus",
+        "product",
+        "impact"
+      ]
+    },
+    {
+      "id": 326,
+      "person": "Steve Wozniak",
+      "en": "Building great things requires patience and persistence.",
+      "cn": "建造伟大的东西需要耐心和坚持。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "patience",
+        "persistence",
+        "craft"
+      ]
+    },
+    {
+      "id": 327,
+      "person": "Steve Wozniak",
+      "en": "If you can imagine it, you can build it.",
+      "cn": "如果你能想象它，你就能建造它。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "imagination",
+        "creation",
+        "possibility"
+      ]
+    },
+    {
+      "id": 328,
+      "person": "Steve Jobs",
+      "en": "I'm convinced that about half of what separates successful entrepreneurs from the non-successful ones is pure perseverance.",
+      "cn": "我相信成功与不成功的创业者之间，大约一半的差距在于纯粹的坚持。",
+      "source": "Interview",
+      "time": "1995",
+      "tags": [
+        "perseverance",
+        "success",
+        "entrepreneurship"
+      ]
+    },
+    {
+      "id": 329,
+      "person": "Tim Cook",
+      "en": "The future of technology is making it disappear.",
+      "cn": "技术的未来是让它消失。",
+      "source": "Apple Event",
+      "time": "2021",
+      "tags": [
+        "technology",
+        "design",
+        "future"
+      ]
+    },
+    {
+      "id": 330,
+      "person": "Steve Wozniak",
+      "en": "I'm going to give you some advice that might be hard to take: never work for money.",
+      "cn": "我要给你一些可能难以接受的建议：永远不要为钱工作。",
+      "source": "Commencement Speech",
+      "time": "2013",
+      "tags": [
+        "passion",
+        "work",
+        "life"
+      ]
+    },
+    {
+      "id": 331,
+      "person": "Jony Ive",
+      "en": "We're always fighting complexity.",
+      "cn": "我们一直在与复杂性作斗争。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "simplicity",
+        "complexity",
+        "design"
+      ]
+    },
+    {
+      "id": 332,
+      "person": "Jony Ive",
+      "en": "We try to make products that feel inevitable.",
+      "cn": "我们试图制造感觉不可避免的产品。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "product",
+        "design",
+        "inevitability"
+      ]
+    },
+    {
+      "id": 333,
+      "person": "Steve Jobs",
+      "en": "I'm going to destroy Android, because it's a stolen product.",
+      "cn": "我要摧毁Android，因为它是一个偷来的产品。",
+      "source": "Interview",
+      "time": "2010",
+      "tags": [
+        "competition",
+        "integrity",
+        "product"
+      ]
+    },
+    {
+      "id": 334,
+      "person": "Jony Ive",
+      "en": "Design is about solving problems, not creating art.",
+      "cn": "设计是关于解决问题，而不是创造艺术。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "design",
+        "problem",
+        "purpose"
+      ]
+    },
+    {
+      "id": 335,
+      "person": "Eddy Cue",
+      "en": "Great services start with great experiences.",
+      "cn": "伟大的服务始于伟大的体验。",
+      "source": "Apple Event",
+      "time": "2015",
+      "tags": [
+        "services",
+        "experience",
+        "quality"
+      ]
+    },
+    {
+      "id": 336,
+      "person": "Jeff Williams",
+      "en": "We believe technology should improve people's health.",
+      "cn": "我们相信科技应该改善人们的健康。",
+      "source": "Interview",
+      "time": "2017",
+      "tags": [
+        "health",
+        "technology",
+        "purpose"
+      ]
+    },
+    {
+      "id": 337,
+      "person": "Jony Ive",
+      "en": "There's something very powerful about saying no to 1,000 things to make one thing great.",
+      "cn": "对1000件事说'不'来让一件事变得伟大，这是一种非常强大的力量。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "focus",
+        "excellence",
+        "design"
+      ]
+    },
+    {
+      "id": 338,
+      "person": "Tim Cook",
+      "en": "The lines of code that change the world are written by people who care.",
+      "cn": "改变世界的代码行是由关心的人写的。",
+      "source": "WWDC",
+      "time": "2020",
+      "tags": [
+        "technology",
+        "care",
+        "impact"
+      ]
+    },
+    {
+      "id": 339,
+      "person": "Tim Cook",
+      "en": "We think coding should be a required language in all schools.",
+      "cn": "我们认为编程应该成为所有学校的必修语言。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "education",
+        "technology",
+        "future"
+      ]
+    },
+    {
+      "id": 340,
+      "person": "Scott Forstall",
+      "en": "The best interface is one that disappears.",
+      "cn": "最好的界面是消失的界面。",
+      "source": "WWDC",
+      "time": "2011",
+      "tags": [
+        "interface",
+        "design",
+        "simplicity"
+      ]
+    },
+    {
+      "id": 341,
+      "person": "Jony Ive",
+      "en": "We want to create products that people will love for years.",
+      "cn": "我们想创造人们会喜爱多年的产品。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "product",
+        "longevity",
+        "love"
+      ]
+    },
+    {
+      "id": 342,
+      "person": "Eddy Cue",
+      "en": "We want to make the world's best services, not the most.",
+      "cn": "我们想打造世界上最好的服务，而不是最多的。",
+      "source": "Interview",
+      "time": "2018",
+      "tags": [
+        "services",
+        "excellence",
+        "quality"
+      ]
+    },
+    {
+      "id": 343,
+      "person": "Tim Cook",
+      "en": "The user should own their data.",
+      "cn": "用户应该拥有自己的数据。",
+      "source": "Interview",
+      "time": "2019",
+      "tags": [
+        "privacy",
+        "data",
+        "ethics"
+      ]
+    },
+    {
+      "id": 344,
+      "person": "Steve Jobs",
+      "en": "Things don't have to change the world to be important.",
+      "cn": "事物不一定要改变世界才重要。",
+      "source": "Wired",
+      "time": "1996",
+      "tags": [
+        "life",
+        "purpose",
+        "simplicity"
+      ]
+    },
+    {
+      "id": 345,
+      "person": "Tim Cook",
+      "en": "Great products come from deep understanding of users.",
+      "cn": "伟大的产品来自对用户的深刻理解。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "product",
+        "ux",
+        "understanding"
+      ]
+    },
+    {
+      "id": 346,
+      "person": "Jony Ive",
+      "en": "We are really pleased with our products. And most importantly, we're pleased because we believe they are genuinely useful.",
+      "cn": "我们对我们的产品非常满意，最重要的是因为我们相信它们真的有用。",
+      "source": "Apple Event",
+      "time": "2015",
+      "tags": [
+        "product",
+        "design",
+        "purpose"
+      ]
+    },
+    {
+      "id": 347,
+      "person": "Steve Wozniak",
+      "en": "Don't let anyone tell you that you can't do something.",
+      "cn": "不要让任何人告诉你你不能做某事。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "courage",
+        "motivation",
+        "selfbelief"
+      ]
+    },
+    {
+      "id": 348,
+      "person": "Tim Cook",
+      "en": "The greatest contribution Apple can make is to help people live healthier lives.",
+      "cn": "苹果能做出的最大贡献是帮助人们过上更健康的生活。",
+      "source": "Apple Event",
+      "time": "2021",
+      "tags": [
+        "health",
+        "purpose",
+        "impact"
+      ]
+    },
+    {
+      "id": 349,
+      "person": "Steve Wozniak",
+      "en": "The most creative people are willing to work in the absence of guarantees.",
+      "cn": "最有创造力的人愿意在没有保证的情况下工作。",
+      "source": "Interview",
+      "time": "2012",
+      "tags": [
+        "creativity",
+        "risk",
+        "courage"
+      ]
+    },
+    {
+      "id": 350,
+      "person": "Jeff Williams",
+      "en": "Health is the most important thing we work on.",
+      "cn": "健康是我们从事的最重要工作。",
+      "source": "Apple Event",
+      "time": "2019",
+      "tags": [
+        "health",
+        "purpose",
+        "technology"
+      ]
+    },
+    {
+      "id": 351,
+      "person": "Johny Srouji",
+      "en": "We design silicon specifically for our software.",
+      "cn": "我们专门为我们的软件设计芯片。",
+      "source": "Apple Event",
+      "time": "2019",
+      "tags": [
+        "silicon",
+        "hardware",
+        "design"
+      ]
+    },
+    {
+      "id": 352,
+      "person": "Tim Cook",
+      "en": "We don't have a religion about technology. We have a religion about user experience.",
+      "cn": "我们对技术没有宗教信仰，我们对用户体验有宗教信仰。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "ux",
+        "design",
+        "philosophy"
+      ]
+    },
+    {
+      "id": 353,
+      "person": "Steve Jobs",
+      "en": "Quality is much better than quantity. One home run is much better than two doubles.",
+      "cn": "质量比数量重要得多。一个本垒打比两个二垒打要好得多。",
+      "source": "BusinessWeek",
+      "time": "2006",
+      "tags": [
+        "excellence",
+        "quality",
+        "product"
+      ]
+    },
+    {
+      "id": 354,
+      "person": "Steve Jobs",
+      "en": "Real artists ship.",
+      "cn": "真正的艺术家发货。",
+      "source": "Macworld",
+      "time": "2006",
+      "tags": [
+        "product",
+        "execution",
+        "creativity"
+      ]
+    },
+    {
+      "id": 355,
+      "person": "Steve Wozniak",
+      "en": "The best things that capture your imagination are ones you hadn't thought of before.",
+      "cn": "最能激发你想象力的东西是你以前从未想到过的。",
+      "source": "Interview",
+      "time": "2011",
+      "tags": [
+        "creativity",
+        "imagination",
+        "innovation"
+      ]
+    },
+    {
+      "id": 356,
+      "person": "Steve Wozniak",
+      "en": "I measure success by how much I've helped others.",
+      "cn": "我用我帮助了多少人来衡量成功。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "success",
+        "helping",
+        "values"
+      ]
+    },
+    {
+      "id": 357,
+      "person": "Tim Cook",
+      "en": "We have a moral obligation to protect our users' privacy.",
+      "cn": "我们有道德义务保护用户的隐私。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "privacy",
+        "ethics",
+        "responsibility"
+      ]
+    },
+    {
+      "id": 358,
+      "person": "Tim Cook",
+      "en": "We want technology to fade into the background so people can focus on what matters.",
+      "cn": "我们希望技术退居幕后，让人们专注于重要的事情。",
+      "source": "Apple Event",
+      "time": "2017",
+      "tags": [
+        "technology",
+        "design",
+        "simplicity"
+      ]
+    },
+    {
+      "id": 359,
+      "person": "Steve Jobs",
+      "en": "You have to be burning with an idea, or a problem, or a wrong that you want to right.",
+      "cn": "你必须对一个想法、一个问题或一个你想要纠正的错误充满热情。",
+      "source": "Interview",
+      "time": "2005",
+      "tags": [
+        "passion",
+        "purpose",
+        "drive"
+      ]
+    },
+    {
+      "id": 360,
+      "person": "Steve Jobs",
+      "en": "Death is very likely the single best invention of Life.",
+      "cn": "死亡很可能是生命最好的发明。",
+      "source": "Stanford Commencement",
+      "time": "2005",
+      "tags": [
+        "life",
+        "death",
+        "philosophy"
+      ]
+    },
+    {
+      "id": 361,
+      "person": "Steve Jobs",
+      "en": "It's not done until it ships.",
+      "cn": "直到发货才算完成。",
+      "source": "Apple Internal",
+      "time": "2005",
+      "tags": [
+        "execution",
+        "product",
+        "shipping"
+      ]
+    },
+    {
+      "id": 362,
+      "person": "Steve Wozniak",
+      "en": "The spirit of the hobbyist is what drives real innovation.",
+      "cn": "爱好者的精神才是真正的创新驱动力。",
+      "source": "Interview",
+      "time": "2015",
+      "tags": [
+        "hobby",
+        "innovation",
+        "passion"
+      ]
+    },
+    {
+      "id": 363,
+      "person": "Jony Ive",
+      "en": "There's no learning without trying lots of ideas and failing lots of times.",
+      "cn": "不尝试大量想法和经历多次失败，就没有学习。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "learning",
+        "failure",
+        "creativity"
+      ]
+    },
+    {
+      "id": 364,
+      "person": "Steve Jobs",
+      "en": "Great things in business are never done by one person.",
+      "cn": "商业上的伟大成就从来不是一个人完成的。",
+      "source": "Interview",
+      "time": "2010",
+      "tags": [
+        "teamwork",
+        "leadership",
+        "collaboration"
+      ]
+    },
+    {
+      "id": 365,
+      "person": "Steve Wozniak",
+      "en": "Engineering is the closest thing to magic we have.",
+      "cn": "工程是我们拥有的最接近魔法的东西。",
+      "source": "Interview",
+      "time": "2014",
+      "tags": [
+        "engineering",
+        "magic",
+        "wonder"
+      ]
+    },
+    {
+      "id": 366,
+      "person": "Scott Forstall",
+      "en": "Every pixel matters.",
+      "cn": "每个像素都很重要。",
+      "source": "WWDC",
+      "time": "2010",
+      "tags": [
+        "design",
+        "detail",
+        "craft"
+      ]
+    },
+    {
+      "id": 367,
+      "person": "Steve Jobs",
+      "en": "The broader one's understanding of the human experience, the better design we will have.",
+      "cn": "一个人对人类体验的理解越广泛，我们的设计就会越好。",
+      "source": "Interview",
+      "time": "1982",
+      "tags": [
+        "design",
+        "humanity",
+        "understanding"
+      ]
+    },
+    {
+      "id": 368,
+      "person": "Steve Jobs",
+      "en": "I'm convinced that the only thing that kept me going was that I loved what I did.",
+      "cn": "我相信唯一能让我坚持下去的是热我所做的事。",
+      "source": "Stanford Commencement",
+      "time": "2005",
+      "tags": [
+        "passion",
+        "perseverance",
+        "work"
+      ]
+    },
+    {
+      "id": 369,
+      "person": "Tim Cook",
+      "en": "If you don't make mistakes, you're not trying hard enough.",
+      "cn": "如果你不犯错，说明你不够努力。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "failure",
+        "growth",
+        "risk"
+      ]
+    },
+    {
+      "id": 370,
+      "person": "Tim Cook",
+      "en": "It's not about being first. It's about being the best.",
+      "cn": "重要的不是第一个，而是最好的。",
+      "source": "Interview",
+      "time": "2013",
+      "tags": [
+        "excellence",
+        "timing",
+        "quality"
+      ]
+    },
+    {
+      "id": 371,
+      "person": "Tim Cook",
+      "en": "The most precious resource we all have is time.",
+      "cn": "我们最宝贵的资源是时间。",
+      "source": "Interview",
+      "time": "2016",
+      "tags": [
+        "time",
+        "life",
+        "priority"
+      ]
+    },
+    {
+      "id": 372,
+      "person": "Steve Jobs",
+      "en": "It's better to be a pirate than to join the navy.",
+      "cn": "当海盗比加入海军更好。",
+      "source": "Odyssey",
+      "time": "1982",
+      "tags": [
+        "culture",
+        "independence",
+        "thinking"
+      ]
+    },
+    {
+      "id": 373,
+      "person": "Steve Jobs",
+      "en": "You can't just ask customers what they want and then try to give that to them.",
+      "cn": "你不能只问顾客他们想要什么，然后试图给他们。",
+      "source": "Interview",
+      "time": "1989",
+      "tags": [
+        "innovation",
+        "vision",
+        "product"
+      ]
+    }
+  ]
+}
